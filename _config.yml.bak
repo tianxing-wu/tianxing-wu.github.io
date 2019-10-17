@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "Home"
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "personal description"
+name                     : &name "Tianxing Wu"
+description              : &description "Postdoctoral Researcher at Nanyang Technological University"
 url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
@@ -80,8 +80,8 @@ analytics:
 
 # Site Author
 author:
-  name             : "Tianxing Wu"
-  avatar           : "wtx.png"
+  name             : "Dr. Tianxing Wu"
+  avatar           : "yyuan.jpg"
   bio              : "Postdoctoral Researcher at Nanyang Technological University"
   location         : "Singapore"
   employer         :
