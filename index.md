@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Tianxing Wu (吴天星)
 
 You can use the [editor on GitHub](https://github.com/tianxing-wu/tianxing-wu.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
