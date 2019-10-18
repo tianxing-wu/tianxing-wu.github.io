@@ -10,4 +10,3 @@ author_profile: true
 * **Excellent Master Degree Thesis of Southeast University**, 2016
 * **Excellent Master Degree Graduate of Southeast University**, 2014
 * **Chinese National Scholarship for Undergraduate Students (8,000 CNY)**, 2010
-
