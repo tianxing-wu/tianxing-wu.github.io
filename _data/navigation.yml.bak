@@ -1,7 +1,7 @@
 # main links links
 main:
   - title: "Resume"
-    url: /files/cv.pdf/
+    url: https://tianxing-wu.github.io/files/cv.pdf
     
   - title: "Publications"
     url: /publications/    
