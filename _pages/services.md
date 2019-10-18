@@ -35,3 +35,7 @@ author_profile: true
 
 
 ## Workshop:
+**Program Committee Member:**
+* 2020 - GRADES-NDA, the 3rd Joint International Workshop on Graph Data Management Experiences & Systems and Network Data Analytics (co-located with SIGMOD 2020).
+* 2019 - GRADES-NDA, the 2nd Joint International Workshop on Graph Data Management Experiences & Systems and Network Data Analytics (co-located with SIGMOD 2019).
+* 2018 - BigGraphs, the 5th International Workshop on High Performance Big Graph Data Management, Analysis, and Mining (co-located with IEEE BigData 2018).
