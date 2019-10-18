@@ -12,7 +12,8 @@ I am a postdoctoral researcher working at [School of Computer Science and Engine
 * **Knowledge Graph:** Knowledge Graph Construction, Completion, Fusion, and Update; 
 * **Semantic Web:** Linked Data, Open Data, Ontology;
 * **Data Mining:** Table Mining, Text Mining, Information Extraction, Graph Mining;
-* **Artificial Intelligence:** Weakly-Supervised and Explainable Machine Learning;
+* **Artificial Intelligence:** Weakly-Supervised and Explainable Machine Learning.
+In the above research areas, I have published over 20 papers in top-tier conferences and journal, such as AAAI, ECAI, ISWC, JWS, WWWJ, etc. 
 
 News
 ======
