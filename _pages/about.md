@@ -36,7 +36,7 @@ Visiting Researcher at Institute AIFB, Karlsruhe Institute of Technology, German
 
 Education
 ======
-Match, 2015 - September, 2018 <br>
+March, 2015 - September, 2018 <br>
 Ph.D. in Software Engineering at Southeast University, China <br>
 (Advisor: Prof. Dr. [Guilin Qi](https://cse.seu.edu.cn/2019/0103/c23024a257135/page.htm))
 
