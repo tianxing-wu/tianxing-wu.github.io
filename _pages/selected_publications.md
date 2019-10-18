@@ -11,5 +11,7 @@ The full list of my publications can be found in [DBLP](https://dblp.uni-trier.d
 ## Journal Papers:
 * **[WWWJ 2020] Tianxing Wu**, Haofen Wang, Cheng Li, Guilin Qi, Xing Niu, Meng Wang, Lin Li, Chaomin Shi. Knowledge graph construction from multiple online encyclopedias, [[Paper]](https://tianxing-wu.github.io/files/paper/WWWJ2020.pdf) [[Data]](http://zhishi.me). <i>World Wide Web-Internet and Web Information Systems (WWWJ)</i>, 2020. (IF=1.77, CCF B)
 * **[IJSWIS 2019] Tianxing Wu**, Guilin Qi, Bin Luo, Lei Zhang, Haofen Wang. Language-Independent Type Inference of the Instances from Multilingual Wikipedia, [[Paper]](https://tianxing-wu.github.io/files/paper/IJSWIS2019.pdf) [[Data]](http://www.multype.org). <i>International Journal on Semantic Web and Information Systems (IJSWIS)</i>, 2019, 15(2): 22-46. (IF=1.833, CCF C)
+* **[JWS 2018] Tianxing Wu**, Haofen Wang, Guilin Qi, Jiangang Zhu, Tong Ruan. On building and publishing Linked Open Schema from social Web sites, [[Paper]](https://tianxing-wu.github.io/files/paper/JWSS2018.pdf) [[Data]](http://los.linkingopenschema.info). <i>Journal of Web Semantics (JWS)</i>, 2018, 51: 39-50. (IF=2.429, CCF B)
+* **[Sustainability 2018] Tianxing Wu**, Guilin Qi, Cheng Li, Meng Wang. A Survey of Techniques for Constructing Chinese Knowledge Graphs and Their Applications, [[Link]](https://www.mdpi.com/2071-1050/10/9/3245). <i>Sustainability</i>, 2018, 10(9): 3245. (IF=2.592)
 
 ## Conference Papers:
