@@ -20,3 +20,6 @@ The full list of my publications can be found in [DBLP](https://dblp.uni-trier.d
 * **[AAAI 2016] Tianxing Wu**, Guilin Qi, Haofen Wang, Kang Xu, Xuan Cui. Cross-Lingual Taxonomy Alignment with Bilingual Biterm Topic Model, [[Paper]](https://tianxing-wu.github.io/files/paper/AAAI2016.pdf) [[Datasets]](https://github.com/jxls080511/080424). <i>In: Proc. of the 30th AAAI Conference on Artificial Intelligence (AAAI)</i>, 2016: 287-293. (Full Paper, CCF A)
 * **[ECAI 2016]** Kang Xu, Guilin Qi, Junheng Huang, **Tianxing Wu**. A Joint Model for Sentiment-Aware Topic Detection on Social Media, [[Link]](http://ebooks.iospress.nl/publication/44775). <i>In: Proc. of 22nd European Conference on Artificial Intelligence (ECAI)</i>, 2016: 238-346. (Full Paper, CCF B)
 * **[ISWC 2014]** Haofen Wang, **Tianxing Wu**, Guilin Qi, Ruan Tong. On Publishing Chinese Linked Open Schema, [[Paper]](https://tianxing-wu.github.io/files/paper/ISWC2014.pdf) [[Data]](http://los.linkingopenschema.info). <i>In: Proc. of the 13th International Semantic Web Conference (ISWC), Part I</i>, 2014: 293-308. (Full Paper, CCF B)
+
+## PhD Dissertation (Chinese):
+* Research on Approaches to Bilingual Knowledge Graph Construction from Social Web Sites, [[PDF]](https://tianxing-wu.github.io/files/phd_dissertation.pdf).
