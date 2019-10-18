@@ -12,4 +12,4 @@ author_profile: true
 
 ## Address:
 School of Computer Science and Engineering, Nanyang Technological University, <br>
-50 Nanyang Avenue Block N4 #02a-32, 639798, Singapore.
+50 Nanyang Avenue Block N4-B3C-14, 639798, Singapore.

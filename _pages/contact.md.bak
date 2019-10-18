@@ -7,7 +7,7 @@ author_profile: true
 
 ## Emails:
 * wutianxing@ntu.edu.sg
-* wutianxing@seu.edu.sg
+* wutianxing@seu.edu.cn
 
 
 ## Address:
