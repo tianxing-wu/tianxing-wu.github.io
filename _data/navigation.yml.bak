@@ -14,12 +14,6 @@ main:
   
   - title: "Talks"
     url: /talks/
-  
-  - title: "Teaching"
-    url: /teaching/    
- 
-  - title: "Students"
-    url: /teaching/
  
   - title: "Contact"
     url: /markdown/
