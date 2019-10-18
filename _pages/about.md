@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 I am a postdoctoral researcher working at [School of Computer Science and Engineering](http://scse.ntu.edu.sg) of [Nanyang Technological University](https://www.ntu.edu.sg), Singapore. I received the Ph.D. degree (2018) in Software Engineering from [Southeast University](https://www.seu.edu.cn), China. My research interests include:
-* **Knowledge Engineering:** Knowledge Graph Construction, Completion, Fusion, and Update; 
+* **Knowledge Graph:** Knowledge Graph Construction, Completion, Fusion, and Update; 
 * **Semantic Web:** Linked Data, Open Data, Ontology;
 * **Data Mining:** Table Mining, Text Mining, Information Extraction, Graph Mining;
 * **Artificial Intelligence:** Weakly-Supervised and Explainable Machine Learning;
