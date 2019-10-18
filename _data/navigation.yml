@@ -13,7 +13,7 @@ main:
     url: /awards/
   
   - title: "Talks"
-    url: /talks/
+    url: /selected_talks/
  
   - title: "Contact"
     url: /contact/
