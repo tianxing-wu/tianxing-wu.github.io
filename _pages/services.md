@@ -1,11 +1,11 @@
 ---
 layout: archive
-title: "Services"
+title: "Acadamic Services"
 permalink: /services/
 author_profile: true
 ---
 
-## Journals:
+## Journal:
 **Editorial Review Board Member** of International Journal on Semantic Web and Information Systems (IJSWIS). <br>
 
 **Reviewer**
@@ -20,7 +20,7 @@ author_profile: true
 * 2015 - Journal of Web Semantics (JWS).
 
 
-## Conferences:
+## Conference:
 
 
-## Workshops:
+## Workshop:
