@@ -26,24 +26,24 @@ News
 
 Professional Experience
 ======
-June, 2018 - now
-Postdoctoral Researcher at Nanyang Technological University, Singapore 
+June, 2018 - now <br>
+Postdoctoral Researcher at Nanyang Technological University, Singapore <br>
 (work with Prof. Dr. [Arijit Khan](https://www.ntu.edu.sg/home/arijit.khan/index.html))
 
-July, 2016 - September, 2016      
-Visiting Researcher at Institute AIFB, Karlsruhe Institute of Technology, Germany 
+July, 2016 - September, 2016 <br>      
+Visiting Researcher at Institute AIFB, Karlsruhe Institute of Technology, Germany <br>
 (work with Dr. [Lei Zhang](https://scholar.google.de/citations?user=jr-o314AAAAJ&hl=en))
 
 Education
 ======
-Match, 2015 - September, 2018     
-Ph.D. in Software Engineering at Southeast University, China 
+Match, 2015 - September, 2018 <br>
+Ph.D. in Software Engineering at Southeast University, China <br>
 (Advisor: Prof. Dr. [Guilin Qi](https://cse.seu.edu.cn/2019/0103/c23024a257135/page.htm))
 
-September, 2012 - November, 2014      
-M.E. in Software Engineering at Southeast University, China 
+September, 2012 - November, 2014 <br>  
+M.E. in Software Engineering at Southeast University, China <br>
 (Advisor: Prof. Dr. [Guilin Qi](https://cse.seu.edu.cn/2019/0103/c23024a257135/page.htm))
 
-September, 2008 - June, 2012   
+September, 2008 - June, 2012 <br>
 B.E. in Computer Science and Technology (Software Class) at Nanjing Tech University, China
 
