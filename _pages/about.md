@@ -19,9 +19,9 @@ In the above research areas, I have published over 20 papers in top-tier confere
 News
 ======
 * **Oct. 2019:** I will join School of Computer Science and Engineering, Southeast University, China as a tenure-track Assistant Professor (since Jan. 2020).
+* **Oct. 2019:** I was invited as a PC member of ECAI 2020.
 * **Aug. 2019:** One paper accepted by WWWJ (CCF B Journal).
 * **Jan. 2019:** One paper accepted by DASFAA 2019 (CCF B Conference).
-* **May. 2018:** One paper accepted by IJSWIS (CCF C Journal).
 * **May. 2018:** One paper accepted by JWS (CCF B Journal).
 
 Professional Experience
