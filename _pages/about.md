@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a postdoctoral researcher working at [School of Computer Science and Engineering](http://scse.ntu.edu.sg) of [Nanyang Technological University](https://www.ntu.edu.sg), Singapore. I received the Ph.D. degree in Software Engineering from [Southeast University](https://www.seu.edu.cn), China.
+I am a postdoctoral researcher working at [School of Computer Science and Engineering](http://scse.ntu.edu.sg) of [Nanyang Technological University](https://www.ntu.edu.sg), Singapore. I received the Ph.D. degree (2018) in Software Engineering from [Southeast University](https://www.seu.edu.cn), China.
 
 News
 ======
