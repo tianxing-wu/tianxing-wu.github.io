@@ -23,10 +23,11 @@ author_profile: true
 ## Conference:
 **Program Committee Member:**
 * 2020 - ECAI.
+* 2019 - JIST.
 
 **External Reviewer:**
-* 2020 - VLDB, 
-* 2019 - VLDB, WWW, ISWC, DSAA.
+* 2020 - VLDB, TheWebConf (WWW),
+* 2019 - VLDB, TheWebConf (WWW), ISWC, DSAA.
 * 2018 - IJCAI, ICDM.
 * 2017 - AAAI, IJCAI.
 * 2016 - AAAI, IJCAI, WWW, ISWC, JIST.
