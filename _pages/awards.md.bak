@@ -4,7 +4,7 @@ permalink: /awards/
 title: "Awards"
 author_profile: true
 ---
-* **Chinese National Scholarship for PhD Students (30,000 CNY)**, 2017.
+* **Chinese National Scholarship for PhD Students (30,000 CNY)** (the 2nd time during my phd), 2017.
 * **Chinese National Scholarship for PhD Students (30,000 CNY)**, 2016.
 * **Excellent Master Degree Thesis of Jiangsu Province (China)**, 2016.
 * **Excellent Master Degree Thesis of Southeast University**, 2016.
