@@ -22,7 +22,7 @@ author_profile: true
 
 ## Conference:
 **Program Committee Member:**
-* 2020 - ECAI.
+* 2020 - IJCAI, ECAI.
 * 2019 - JIST.
 
 **External Reviewer:**
