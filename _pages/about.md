@@ -18,6 +18,7 @@ In the above research areas, I have published over 20 papers in top-tier confere
 
 News
 ======
+* **Jan. 2020:** One paper accepted by ICDE 2020 (CCF A Conference).
 * **Dec. 2019:** I was awarded the Excellent Ph.D. Degree Dissertation of Jiangsu Computer Society.
 * **Dec. 2019:** I was invited as a PC member of IJCAI 2020.
 * **Oct. 2019:** I was invited as a PC member of ECAI 2020.
