@@ -23,7 +23,7 @@ author_profile: true
 
 ## Conference:
 **Program Committee Member:**
-* 2020 - IJCAI, ECAI, PAKDD, JIST-KG.
+* 2020 - IJCAI, ECAI, ISWC (Research Track), PAKDD, JIST-KG.
 * 2019 - JIST.
 
 **External Reviewer:**
