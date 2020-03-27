@@ -7,8 +7,8 @@ author_profile: true
 
 ## Journal:
 **Editorial Board Member:** 
-*International Journal on Semantic Web and Information Systems (IJSWIS).
-*Data Intelligence (DI).
+* International Journal on Semantic Web and Information Systems (IJSWIS).
+* Data Intelligence (DI).
 
 **Reviewer:**
 * 2020 - IEEE Transactions on Knowledge and Data Engineering (TKDE), ACM Transactions on Asian and Low-Resource Language Information Processing (TALLIP), Knowledge-based Systems (KBS), Future Generation Computer Systems (FGCS), Data Intelligence (DI), Information.
