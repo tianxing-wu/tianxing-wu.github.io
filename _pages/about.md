@@ -8,25 +8,29 @@ redirect_from:
   - /about.html
 ---
 
-I am a postdoctoral researcher working at [School of Computer Science and Engineering](http://scse.ntu.edu.sg) of [Nanyang Technological University](https://www.ntu.edu.sg), Singapore. I received the Ph.D. degree (2018) in Software Engineering from [Southeast University](https://www.seu.edu.cn), China. My research interests include:
-* **Knowledge Graph:** Knowledge Graph Construction, Completion, Fusion, and Update; 
+I am an assistant professor working at [School of Computer Science and Engineering](http://cse.seu.edu.cn) of [Southeast University](https://www.seu.edu.cn), P.R. China. I also received the Ph.D. degree (2018) in Software Engineering from Southeast University. My research interests include:
+* **Knowledge Graph:** Knowledge Graph Construction, Completion, Fusion, and Update;
+* **Data Mining:** Table Mining, Text Mining, Information Extraction, Graph Mining; 
 * **Semantic Web:** Linked Data, Open Data, Ontology;
-* **Data Mining:** Table Mining, Text Mining, Information Extraction, Graph Mining;
 * **Artificial Intelligence:** Weakly-Supervised and Explainable Machine Learning.
 
 In the above research areas, I have published over 20 papers in top-tier conferences and journals, such as ICDE, AAAI, ECAI, ISWC, JWS, WWWJ, etc. 
 
 News
 ======
+* **Sep. 2020:** I was invited as a PC member of IJCAI 2021.
+* **Jun. 2020:** I was invited as a PC member of AAAI 2020.
 * **Jan. 2020:** One paper accepted by ICDE 2020 (CCF A Conference).
 * **Dec. 2019:** I was awarded the Excellent Ph.D. Degree Dissertation of Jiangsu Computer Society.
 * **Dec. 2019:** I was invited as a PC member of IJCAI 2020.
-* **Oct. 2019:** I was invited as a PC member of ECAI 2020.
-* **Aug. 2019:** One paper accepted by WWWJ (CCF B Journal).
 
 Professional Experience
 ======
-June, 2018 - now <br>
+January, 2020 - Now <br>
+Assistant Professor at at Southeast University, China <br>
+(work with Prof. Dr. [Guilin Qi](https://cse.seu.edu.cn/2019/0103/c23024a257135/page.htm))
+
+June, 2018 - December, 2019 <br>
 Postdoctoral Researcher at Nanyang Technological University, Singapore <br>
 (work with Prof. Dr. [Arijit Khan](https://www.ntu.edu.sg/home/arijit.khan/index.html))
 
