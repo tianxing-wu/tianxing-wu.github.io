@@ -11,7 +11,7 @@ author_profile: true
 * Data Intelligence (DI).
 
 **Reviewer:**
-* 2020 - IEEE Transactions on Knowledge and Data Engineering (TKDE), ACM Transactions on Asian and Low-Resource Language Information Processing (TALLIP), Knowledge-based Systems (KBS), Future Generation Computer Systems (FGCS), Data Intelligence (DI), Information.
+* 2020 - IEEE Transactions on Knowledge and Data Engineering (TKDE), ACM Transactions on Asian and Low-Resource Language Information Processing (TALLIP), Knowledge-based Systems (KBS), Future Generation Computer Systems (FGCS), Applied Intelligence (APIN), Data Intelligence (DI), Information.
 * 2019 - Knowledge-based Systems (KBS), Concurrency and Computation: Practice and Experience (CCPE), International Journal of Cognitive Informatics and Natural Intelligence (IJCINI), Information.
 * 2018 - Knowledge-based Systems (KBS), International Journal on Semantic Web and Information Systems (IJSWIS).
 * 2017 - International Journal on Semantic Web and Information Systems (IJSWIS).
@@ -25,10 +25,12 @@ author_profile: true
 
 ## Conference:
 **Program Committee Member:**
+* 2021 - IJCAI, AAAI.
 * 2020 - IJCAI, ECAI, ISWC (Research Track), PAKDD, JIST-KG.
 * 2019 - JIST.
 
 **External Reviewer:**
+* 2021 - TheWebConf (WWW).
 * 2020 - VLDB, TheWebConf (WWW), SIGMOD.
 * 2019 - VLDB, TheWebConf (WWW), ISWC, DSAA.
 * 2018 - IJCAI, ICDM.
