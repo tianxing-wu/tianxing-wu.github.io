@@ -4,6 +4,7 @@ permalink: /awards/
 title: "Awards"
 author_profile: true
 ---
+* **Excellent Ph.D. Degree Dissertation of Southeast University**, 2020.
 * **Excellent Ph.D. Degree Dissertation of Jiangsu Computer Society**, 2019.
 * **China National Scholarship for PhD Students (30,000 CNY)** (the 2nd time during my phd), 2017.
 * **China National Scholarship for PhD Students (30,000 CNY)**, 2016.

@@ -6,10 +6,10 @@ author_profile: true
 ---
 
 ## Emails:
-* wutianxing@ntu.edu.sg
+* tianxingwu@seu.edu.cn
 * wutianxing@seu.edu.cn
 
 
 ## Address:
-School of Computer Science and Engineering, Nanyang Technological University, <br>
-50 Nanyang Avenue Block N4-B3C-14, 639798, Singapore.
+Room 506, School of Computer Science and Engineering, Southeast University, <br>
+2# Southeast University Road , 211189, Nanjing, Jiangsu Province, P.R. China.

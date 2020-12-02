@@ -20,9 +20,9 @@ News
 ======
 * **Sep. 2020:** I was invited as a PC member of IJCAI 2021.
 * **Jun. 2020:** I was invited as a PC member of AAAI 2020.
+* **Jun. 2020:** I was awarded the Excellent Ph.D. Degree Dissertation of Southeast University.
 * **Jan. 2020:** One paper accepted by ICDE 2020 (CCF A Conference).
 * **Dec. 2019:** I was awarded the Excellent Ph.D. Degree Dissertation of Jiangsu Computer Society.
-* **Dec. 2019:** I was invited as a PC member of IJCAI 2020.
 
 Professional Experience
 ======

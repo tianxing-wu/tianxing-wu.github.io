@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "My Website"
 title_separator          : "-"
 name                     : &name "Tianxing Wu"
-description              : &description "Postdoctoral Researcher"
+description              : &description "Assistant Professor"
 url                      : https://tianxing-wu.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "tianxing-wu.github.io"
@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Dr. Tianxing Wu"
   avatar           : "wtx.png"
-  bio              : "Postdoctoral Researcher"
-  location         : "Singapore"
+  bio              : "Assistant Professor"
+  location         : "China"
   employer         :
   pubmed           :
   googlescholar    : "https://scholar.google.com/citations?user=VE7OlAkAAAAJ"
