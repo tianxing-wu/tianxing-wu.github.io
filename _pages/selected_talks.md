@@ -4,7 +4,7 @@ title: "Selected Talks"
 permalink: /selected_talks/
 author_profile: true
 ---
-* **12.2021:** A Preliminary Exploration on Autism Spectrum Disorder Knowledge Graph Construction. Autism Spectrum Disorder and Artificial Intelligence Forum, the 4th Jiangsu Artificial Intelligence Conference, Nanjing, China.
+* **12.2021:** A Preliminary Exploration on Autism Spectrum Disorder Knowledge Graph Construction. Autism Spectrum Disorder and Artificial Intelligence Forum, The 4th Jiangsu Artificial Intelligence Conference, Nanjing, China.
 * **11.2021:** Uncertain Knowledge Graph Representation Learning. [School of Modern Posts](http://scse.ntu.edu.sg/Research/DMAL/Pages/Home.aspx), Nanjing University of Posts and Telecommunications (NJUPT), China.
 * **09.2019:** Knowledge Graph Construction from Multiple Online Encyclopedias. [The DMAL Lab](http://scse.ntu.edu.sg/Research/DMAL/Pages/Home.aspx), Nanyang Technological University (NTU), Singapore.
 * **01.2018:** Technologies and Applications of Knowledge Extraction from Online Encyclopedias (in Chinese). The 2nd Knowledge Graph Training Camp hosted by [KGDATA](https://www.kgtdata.com), Jiangsu Software Park, Nanjing, China.
