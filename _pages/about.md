@@ -20,7 +20,7 @@ In the above research areas, I have published over 30 papers in top-tier confere
 News
 ======
 * **Jul. 2022:** I was elected as an academic member of CCF YOCSEF Nanjing.
-* **May  2022:** two papers accepted by the Elsevier Journal Knowledge-Based Systems (IF=8.139).
+* **May  2022:** two journal papers accepted by Knowledge-Based Systems (IF=8.139).
 * **Apr. 2022:** One paper accepted by IJCAI 2022 (CCF A Conference).
 * **Dec. 2021:** I was selected in the ZhiShan Young Scholar Program of Southeast University.
 * **Jul. 2021:** I was granted the Project for the Doctor of Entrepreneurship and Innovation in Jiangsu Province.
