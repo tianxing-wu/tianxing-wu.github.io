@@ -32,7 +32,7 @@ Assistant Professor at at Southeast University, China <br>
 
 June, 2018 - December, 2019 <br>
 Postdoctoral Researcher at Nanyang Technological University, Singapore <br>
-(work with Prof. Dr. [Arijit Khan](https://www.ntu.edu.sg/home/arijit.khan/index.html))
+(work with Prof. Dr. [Arijit Khan](https://homes.cs.aau.dk/~Arijit/))
 
 July, 2016 - September, 2016    
 Visiting Researcher at Institute AIFB, Karlsruhe Institute of Technology, Germany <br>
