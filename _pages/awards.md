@@ -4,6 +4,8 @@ permalink: /awards/
 title: "Awards"
 author_profile: true
 ---
+* **ZhiShan Young Scholar of Southeast University**, 2021.
+* **The Doctor of Entrepreneurship and Innovation in Jiangsu Province**, 2021.
 * **Excellent Ph.D. Degree Dissertation of Southeast University**, 2020.
 * **Excellent Ph.D. Degree Dissertation of Jiangsu Computer Society**, 2019.
 * **China National Scholarship for PhD Students (30,000 CNY)** (the 2nd time during my phd), 2017.
