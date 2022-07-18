@@ -10,18 +10,20 @@ redirect_from:
 
 I am an assistant professor working at [School of Computer Science and Engineering](http://cse.seu.edu.cn) of [Southeast University](https://www.seu.edu.cn), P.R. China. I also received the Ph.D. degree (2018) in Software Engineering from Southeast University. My research interests include:
 * **Knowledge Graph:** Knowledge Graph Construction, Completion, Fusion, and Update;
+* **Knowledge Representation and Reasoning:** Representation Learning, Neural-Symbolic Reasoning; 
 * **Data Mining:** Table Mining, Text Mining, Information Extraction, Graph Mining; 
 * **Semantic Web:** Linked Data, Open Data, Ontology;
-* **Artificial Intelligence:** Weakly-Supervised and Explainable Machine Learning.
+* **Artificial Intelligence Applications:** AI and Medicine, AI and Law, etc.
 
-In the above research areas, I have published over 20 papers in top-tier conferences and journals, such as ICDE, AAAI, ECAI, ISWC, JWS, WWWJ, etc. 
+In the above research areas, I have published over 30 papers in top-tier conferences and journals, such as ICDE, AAAI, IJCAI, ECAI, ISWC, JWS, WWWJ, etc. 
 
 News
 ======
-* **Sep. 2020:** I was invited as a PC member of IJCAI 2021.
-* **Jun. 2020:** I was invited as a PC member of AAAI 2021.
-* **Jun. 2020:** I was awarded the Excellent Ph.D. Degree Dissertation of Southeast University.
-* **Apr. 2020:** I was invited as a PC member of ISWC (Research Track) 2020.
+* **Jul. 2022:** I was elected as an academic member of CCF YOCSEF Nanjing.
+* **May  2022:** two papers accepted by the Elsvier Journal Knowledge-Based Systems (IF=8.139, JCR Q1).
+* **Apr. 2022:** One paper accepted by IJCAI 2022 (CCF A Conference).
+* **Dec. 2021:** I was selected as the ZhiShan Young Scholar of Southeast University.
+* **Apr. 2022:** One paper accepted by IJCAI 2022 (CCF A Conference).
 * **Jan. 2020:** One paper accepted by ICDE 2020 (CCF A Conference).
 
 Professional Experience
