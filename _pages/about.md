@@ -10,7 +10,7 @@ redirect_from:
 
 I am an assistant professor working at [School of Computer Science and Engineering](http://cse.seu.edu.cn) of [Southeast University](https://www.seu.edu.cn), P.R. China. I also received the Ph.D. degree (2018) in Software Engineering from Southeast University. My research interests include:
 * **Knowledge Graph:** Knowledge Graph Construction, Completion, Fusion, and Update;
-* **Knowledge Representation and Reasoning:** Representation Learning, Neural-Symbolic Reasoning; 
+* **Knowledge Representation and Reasoning:** Representation Learning, Rule Reasoning; 
 * **Data Mining:** Table Mining, Text Mining, Information Extraction, Graph Mining; 
 * **Semantic Web:** Linked Data, Open Data, Ontology;
 * **Artificial Intelligence Applications:** AI and Medicine, AI and Law, etc.
@@ -20,17 +20,15 @@ In the above research areas, I have published over 30 papers in top-tier confere
 News
 ======
 * **Jul. 2022:** I was elected as an academic member of CCF YOCSEF Nanjing.
-* **May  2022:** two papers accepted by the Elsvier Journal Knowledge-Based Systems (IF=8.139, JCR Q1).
+* **May  2022:** two papers accepted by the Elsevier Journal Knowledge-Based Systems (IF=8.139).
 * **Apr. 2022:** One paper accepted by IJCAI 2022 (CCF A Conference).
-* **Dec. 2021:** I was selected as the ZhiShan Young Scholar of Southeast University.
-* **Apr. 2022:** One paper accepted by IJCAI 2022 (CCF A Conference).
-* **Jan. 2020:** One paper accepted by ICDE 2020 (CCF A Conference).
+* **Dec. 2021:** I was selected in the ZhiShan Young Scholar Program of Southeast University.
+* **Jul. 2021:** I was granted the Project for the Doctor of Entrepreneurship and Innovation in Jiangsu Province.
 
 Professional Experience
 ======
 January, 2020 - Now <br>
 Assistant Professor at at Southeast University, China <br>
-(work with Prof. Dr. [Guilin Qi](https://cse.seu.edu.cn/2019/0103/c23024a257135/page.htm))
 
 June, 2018 - December, 2019 <br>
 Postdoctoral Researcher at Nanyang Technological University, Singapore <br>
