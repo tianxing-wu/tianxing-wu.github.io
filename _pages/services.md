@@ -4,6 +4,10 @@ title: "Acadamic Services"
 permalink: /services/
 author_profile: true
 ---
+## Acadamic Organizations:
+* CIPS Language and Knowledge Computing Committee Member 
+* CCF YOCSEF Nanjing Academic Committee Member
+* JSAI Natural Language Processing Committee Member
 
 ## Journal:
 **Editorial Board Member:** 
