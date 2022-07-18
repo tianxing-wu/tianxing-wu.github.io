@@ -5,9 +5,9 @@ permalink: /services/
 author_profile: true
 ---
 ## Acadamic Organizations:
-* CIPS Language and Knowledge Computing Committee Member 
-* CCF YOCSEF Nanjing Academic Committee Member
-* JSAI Natural Language Processing Committee Member
+* CIPS Language and Knowledge Computing Committee Member. 
+* CCF YOCSEF Nanjing Academic Committee Member.
+* JSAI Natural Language Processing Committee Member.
 
 ## Journal:
 **Editorial Board Member:** 
@@ -31,8 +31,8 @@ author_profile: true
 
 ## Conference:
 **Chair:**
-* 2022 - CCKS Resource Track Chair
-* 2021 - CCKS Poster & Demo Chair
+* 2022 - CCKS Resource Track Chair.
+* 2021 - CCKS Poster & Demo Chair.
 
 **Program Committee Member:**
 * 2022 - AAAI, IJCAI, IJCKG, CCKS.

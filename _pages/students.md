@@ -20,6 +20,6 @@ author_profile: true
 
 ## Undergraduate Students:
 **2018:**
-Minghao Wang (Infectious Disease Prediction) (Next Position: Master Student, The 
+* Minghao Wang (Infectious Disease Prediction) (Next Position: Master Student, The 
 Hong Kong University of Science and Technology)
 
