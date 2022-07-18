@@ -4,14 +4,15 @@ title: "Selected Publications"
 permalink: /selected_publications/
 author_profile: true
 ---
-The full list of my publications can be found in [DBLP](https://dblp.uni-trier.de/pers/hd/w/Wu:Tianxing) or [Google Scholar](https://scholar.google.com/citations?user=VE7OlAkAAAAJ).
+The full list of my publications can be found in [Google Scholar](https://scholar.google.com/citations?user=VE7OlAkAAAAJ) or [DBLP](https://dblp.uni-trier.de/pers/hd/w/Wu:Tianxing).
 ## Book Chapter:
 * **Tianxing Wu**, Guilin Qi, Cheng Li. Introduction to Chinese Knowledge Graphs and their Applications, [[Link]](https://www.emerald.com/insight/content/doi/10.1108/978-1-78756-679-820191010/full/html). <i>The New Silk Road Leads through the Arab Peninsula: Mastering Global Business and Innovation</i>. Emerald Publishing Limited, 2019: 153-167.
 
 ## Journal Papers:
-* **[WWWJ 2020] Tianxing Wu**, Haofen Wang, Cheng Li, Guilin Qi, Xing Niu, Meng Wang, Lin Li, Chaomin Shi. Knowledge graph construction from multiple online encyclopedias, [[Paper]](https://tianxing-wu.github.io/files/paper/WWWJ2020.pdf) [[Data]](http://zhishi.me). <i>World Wide Web-Internet and Web Information Systems (WWWJ)</i>, 2020. (IF=1.77, CCF B)
-* **[IJSWIS 2019] Tianxing Wu**, Guilin Qi, Bin Luo, Lei Zhang, Haofen Wang. Language-Independent Type Inference of the Instances from Multilingual Wikipedia, [[Paper]](https://tianxing-wu.github.io/files/paper/IJSWIS2019.pdf) [[Data]](http://www.multype.org). <i>International Journal on Semantic Web and Information Systems (IJSWIS)</i>, 2019, 15(2): 22-46. (IF=1.833, CCF C)
-* **[JWS 2018] Tianxing Wu**, Haofen Wang, Guilin Qi, Jiangang Zhu, Tong Ruan. On building and publishing Linked Open Schema from social Web sites, [[Paper]](https://tianxing-wu.github.io/files/paper/JWS2018.pdf) [[Data]](http://los.linkingopenschema.info). <i>Journal of Web Semantics (JWS)</i>, 2018, 51: 39-50. (IF=2.429, CCF B)
+* **[KBS 2022] Tianxing Wu**, Arijit Khan, Melvin Yong, Guilin Qi, Meng Wang. Efficiently embedding dynamic knowledge graphs, [[Paper]](https://arxiv.org/pdf/1910.06708.pdf). <i>Knowledge-Based Systems (KBS)</i>, 2022, 250: 109124. (IF=8.139, CCF C)
+* **[WWWJ 2020] Tianxing Wu**, Haofen Wang, Cheng Li, Guilin Qi, Xing Niu, Meng Wang, Lin Li, Chaomin Shi. Knowledge graph construction from multiple online encyclopedias, [[Paper]](https://tianxing-wu.github.io/files/paper/WWWJ2020.pdf) [[Data]](http://openkg.cn/dataset/zhishi-me-dump). <i>World Wide Web-Internet and Web Information Systems (WWWJ)</i>, 2020. (IF=2.892, CCF B)
+* **[IJSWIS 2019] Tianxing Wu**, Guilin Qi, Bin Luo, Lei Zhang, Haofen Wang. Language-Independent Type Inference of the Instances from Multilingual Wikipedia, [[Paper]](https://tianxing-wu.github.io/files/paper/IJSWIS2019.pdf) [[Data]](http://openkg.cn/dataset/multype). <i>International Journal on Semantic Web and Information Systems (IJSWIS)</i>, 2019, 15(2): 22-46. (IF=1.833, CCF C)
+* **[JWS 2018] Tianxing Wu**, Haofen Wang, Guilin Qi, Jiangang Zhu, Tong Ruan. On building and publishing Linked Open Schema from social Web sites, [[Paper]](https://tianxing-wu.github.io/files/paper/JWS2018.pdf) [[Data]](http://openkg.cn/dataset/linked-open-schema). <i>Journal of Web Semantics (JWS)</i>, 2018, 51: 39-50. (IF=2.429, CCF B)
 * **[SUSTAINABILITY 2018] Tianxing Wu**, Guilin Qi, Cheng Li, Meng Wang. A Survey of Techniques for Constructing Chinese Knowledge Graphs and Their Applications, [[Link]](https://www.mdpi.com/2071-1050/10/9/3245). <i>Sustainability</i>, 2018, 10(9): 3245. (IF=2.592)
 
 ## Conference Papers:
@@ -20,7 +21,7 @@ The full list of my publications can be found in [DBLP](https://dblp.uni-trier.d
 * **[ISWC 2017] Tianxing Wu**, Lei Zhang, Guilin Qi, Xuan Cui, Kang Xu. Encoding Category Correlations into Bilingual Topic Modeling for Cross-Lingual Taxonomy Alignment, [[Paper]](https://tianxing-wu.github.io/files/paper/ISWC2017.pdf) [[Code]](https://github.com/143230/CLTA). <i>In: Proc. of the 16th International Semantic Web Conference (ISWC), Part I</i>, 2017: 728-744. (Full Paper, CCF B)
 * **[AAAI 2016] Tianxing Wu**, Guilin Qi, Haofen Wang, Kang Xu, Xuan Cui. Cross-Lingual Taxonomy Alignment with Bilingual Biterm Topic Model, [[Paper]](https://tianxing-wu.github.io/files/paper/AAAI2016.pdf) [[Datasets]](https://github.com/jxls080511/080424). <i>In: Proc. of the 30th AAAI Conference on Artificial Intelligence (AAAI)</i>, 2016: 287-293. (Full Paper, CCF A)
 * **[ECAI 2016]** Kang Xu, Guilin Qi, Junheng Huang, **Tianxing Wu**. A Joint Model for Sentiment-Aware Topic Detection on Social Media, [[Link]](http://ebooks.iospress.nl/publication/44775). <i>In: Proc. of the 22nd European Conference on Artificial Intelligence (ECAI)</i>, 2016: 238-346. (Full Paper, CCF B)
-* **[ISWC 2014]** Haofen Wang, **Tianxing Wu**, Guilin Qi, Ruan Tong. On Publishing Chinese Linked Open Schema, [[Paper]](https://tianxing-wu.github.io/files/paper/ISWC2014.pdf) [[Data]](http://los.linkingopenschema.info). <i>In: Proc. of the 13th International Semantic Web Conference (ISWC), Part I</i>, 2014: 293-308. (Full Paper, CCF B)
+* **[ISWC 2014]** Haofen Wang, **Tianxing Wu**, Guilin Qi, Ruan Tong. On Publishing Chinese Linked Open Schema, [[Paper]](https://tianxing-wu.github.io/files/paper/ISWC2014.pdf) [[Data]](http://openkg.cn/dataset/linked-open-schema). <i>In: Proc. of the 13th International Semantic Web Conference (ISWC), Part I</i>, 2014: 293-308. (Full Paper, CCF B)
 
 ## PhD Dissertation (Chinese):
 * Research on Approaches to Bilingual Knowledge Graph Construction from Social Web Sites, [[PDF]](https://tianxing-wu.github.io/files/phd_dissertation.pdf).
