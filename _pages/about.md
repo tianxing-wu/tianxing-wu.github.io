@@ -28,7 +28,7 @@ News
 Professional Experience
 ======
 January, 2020 - Now <br>
-Assistant Professor at at Southeast University, China <br>
+Assistant Professor at Southeast University, China <br>
 
 June, 2018 - December, 2019 <br>
 Postdoctoral Researcher at Nanyang Technological University, Singapore <br>

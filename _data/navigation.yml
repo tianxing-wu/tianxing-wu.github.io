@@ -20,6 +20,9 @@ main:
 
   - title: "Students"
     url: /students/
+
+  - title: "Datasets"
+    url: /datasets/
  
   - title: "Contact"
     url: /contact/
