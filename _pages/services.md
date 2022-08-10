@@ -7,6 +7,7 @@ author_profile: true
 ## Acadamic Organizations:
 * CIPS Language and Knowledge Computing Committee Member. 
 * CCF YOCSEF Nanjing Academic Committee Member.
+* JSAI Knowledge Engineering and Intelligent Service Committee Member.
 * JSAI Natural Language Processing Committee Member.
 
 ## Journal:
