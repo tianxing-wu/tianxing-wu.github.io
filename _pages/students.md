@@ -13,7 +13,7 @@ author_profile: true
 **2021:**
 * Yilin Chen (Rule Mining and Reasoning)
 * Xudong Cao (Knowledge Graph Construction)
-* Yipeng Zhu (Dialogue System)
+* Yipeng Zhu (Dialogue System) (Paper in CCKS 2021)
 
 **2020:**
 * Chaoyu Gao (Knowledge Graph Completion) (Paper in EEKE 2022)
