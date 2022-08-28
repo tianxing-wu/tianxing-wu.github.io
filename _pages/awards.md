@@ -4,6 +4,7 @@ permalink: /awards/
 title: "Awards"
 author_profile: true
 ---
+* **CCKS 2022 Best English Paper Award**, 2022.
 * **ZhiShan Young Scholar of Southeast University**, 2021.
 * **The Doctor of Entrepreneurship and Innovation in Jiangsu Province**, 2021.
 * **Excellent Ph.D. Degree Dissertation of Southeast University**, 2020.
