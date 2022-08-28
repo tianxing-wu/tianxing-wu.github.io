@@ -7,7 +7,7 @@ author_profile: true
 
 ## Master Students:
 **2022:** 
-* Jingting Wang (Knowledge Graph Representation Learning) (Paper in CCKS 2022)
+* Jingting Wang (Knowledge Graph Representation Learning) (Paper in CCKS 2022 (Best Paper Award))
 * Feiyue Wu (Medical Knowledge Services)
 
 **2021:**

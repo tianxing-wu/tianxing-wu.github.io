@@ -19,11 +19,11 @@ In the above research areas, I have published over 30 papers in top-tier confere
 
 News
 ======
+* **Aug. 2021:** Our paper on "Uncertain KG Embedding" has achieved the CCKS 2022 Best Paper Award.
 * **Jul. 2022:** One journal paper was accepted by Epidemiology & Infection (IF=4.434).
 * **Jul. 2022:** I was elected as an academic member of CCF YOCSEF Nanjing.
 * **May  2022:** Two journal papers were accepted by Knowledge-Based Systems (IF=8.139).
 * **Apr. 2022:** One paper was accepted by IJCAI 2022 (CCF A Conference).
-* **Dec. 2021:** I was selected in the ZhiShan Young Scholar Program of Southeast University.
 
 Professional Experience
 ======
