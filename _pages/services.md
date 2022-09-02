@@ -36,7 +36,7 @@ author_profile: true
 * 2021 - CCKS Poster & Demo Chair.
 
 **Program Committee Member:**
-* 2022 - AAAI, IJCAI, IJCKG, CCKS.
+* 2022 - AAAI, IJCAI, EMNLP, IJCKG, CCKS.
 * 2021 - AAAI, IJCAI, IJCKG, CCKS, PIC.
 * 2020 - IJCAI, ECAI, ISWC (Research Track), PAKDD, JIST-KG.
 * 2019 - JIST.
