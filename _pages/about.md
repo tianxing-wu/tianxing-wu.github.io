@@ -15,15 +15,15 @@ I am an assistant professor working at [School of Computer Science and Engineeri
 * **Semantic Web:** Linked Data, Open Data, Ontology;
 * **Artificial Intelligence Applications:** AI and Medicine, Law, Smart Grid, etc.
 
-In the above research areas, I have published over 30 papers in top-tier conferences and journals, such as ICDE, AAAI, IJCAI, ECAI, ISWC, JWS, WWWJ, etc. 
+In the above research areas, I have published over 30 papers in top-tier conferences and journals, such as ICDE, AAAI, IJCAI, ECAI, ISWC, TKDE, JWS, WWWJ, etc. 
 
 News
 ======
+* **Sep. 2022:** One Journal paper was accepted by TKDE (IF=9.235, CCF A Journal).
 * **Aug. 2022:** Our team has achieved the CCKS 2022 Best English Paper Award.
 * **Jul. 2022:** One journal paper was accepted by Epidemiology & Infection (IF=4.434).
-* **Jul. 2022:** I was elected as an academic member of CCF YOCSEF Nanjing.
+* **Jul. 2022:** I was elected as an academic committee member of CCF YOCSEF Nanjing.
 * **May  2022:** Two journal papers were accepted by Knowledge-Based Systems (IF=8.139).
-* **Apr. 2022:** One paper was accepted by IJCAI 2022 (CCF A Conference).
 
 Professional Experience
 ======
