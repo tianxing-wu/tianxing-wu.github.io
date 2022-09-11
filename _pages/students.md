@@ -8,7 +8,7 @@ author_profile: true
 ## Master Students:
 **2022:** 
 * Jingting Wang (Knowledge Graph Representation Learning) (Paper in CCKS 2022 (Best English Paper Award))
-* Feiyue Wu (Medical Knowledge Services)
+* Feiyue Wu (Recommender System)
 
 **2021:**
 * Yilin Chen (Rule Mining and Reasoning)
