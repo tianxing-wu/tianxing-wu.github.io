@@ -19,7 +19,7 @@ In the above research areas, I have published over 30 papers in top-tier confere
 
 News
 ======
-* **Sep. 2022:** One Journal paper was accepted by TKDE (IF=9.235, CCF A Journal).
+* **Sep. 2022:** One journal paper was accepted by TKDE (IF=9.235, CCF A Journal).
 * **Aug. 2022:** Our team has achieved the CCKS 2022 Best English Paper Award.
 * **Jul. 2022:** One journal paper was accepted by Epidemiology & Infection (IF=4.434).
 * **Jul. 2022:** I was elected as an academic committee member of CCF YOCSEF Nanjing.
