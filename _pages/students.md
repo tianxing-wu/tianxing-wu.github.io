@@ -11,15 +11,15 @@ author_profile: true
 * Feiyue Wu (Recommender System)
 
 **2021:**
-* Yilin Chen (Rule Mining and Reasoning)
+* Yilin Chen (Rule Mining and Reasoning) (Paper in CCKS 2022)
 * Xudong Cao (Knowledge Graph Construction)
-* Yipeng Zhu (Dialogue System) (Paper in CCKS 2021)
+* Yipeng Zhu (Dialogue System) (Paper in CCKS 2021, 2022)
 
 **2020:**
 * Chaoyu Gao (Knowledge Graph Completion) (Paper in EEKE 2022)
 
 ## Undergraduate Students:
 **2018:**
-* Minghao Wang (Infectious Disease Prediction) (Paper in Epidemiology & Infection 2022) (Next Position: Master Student, The 
+* Minghao Wang (Infectious Disease Prediction) (Paper in Front. Public Health 2022, Epidemiology & Infection 2022) (Next Position: Master Student, The 
 Hong Kong University of Science and Technology)
 

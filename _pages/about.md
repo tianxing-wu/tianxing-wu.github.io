@@ -19,6 +19,7 @@ In the above research areas, I have published over 30 papers in top-tier confere
 
 News
 ======
+* **Sep. 2022:** One journal paper was accepted by Front. Public Health (IF=6.461).
 * **Sep. 2022:** One journal paper was accepted by TKDE (IF=9.235, CCF A Journal).
 * **Aug. 2022:** Our team has achieved the CCKS 2022 Best English Paper Award.
 * **Jul. 2022:** One journal paper was accepted by Epidemiology & Infection (IF=4.434).
