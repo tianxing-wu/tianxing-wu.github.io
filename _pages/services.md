@@ -16,7 +16,7 @@ author_profile: true
 * Data Intelligence (DI).
 
 **Reviewer:**
-* 2022 - Journal of Web Semantics (JWS), Information Processing & Management (IPM), Knowledge-based Systems (KBS), Applied Intelligence (APIN), Engineering Applications of Artificial Intelligence (EAAI), International Journal on Semantic Web and Information Systems (IJSWIS), Aslib Journal of Information Management (AJIM), Scientometrics (SCIM), Data Intelligence (DI), Journal of Software (软件学报).
+* 2022 - Journal of Web Semantics (JWS), Information Processing & Management (IPM), Knowledge-based Systems (KBS), Applied Intelligence (APIN), Engineering Applications of Artificial Intelligence (EAAI), International Journal on Semantic Web and Information Systems (IJSWIS), Aslib Journal of Information Management (AJIM), Scientometrics (SCIM), Heritage Science, Data Intelligence (DI), Journal of Software (软件学报).
 * 2021 - Journal of Web Semantics (JWS), Knowledge-based Systems (KBS), Applied Intelligence (APIN), International Journal on Semantic Web and Information Systems (IJSWIS), Data Intelligence (DI), Journal of Software (软件学报).
 * 2020 - IEEE Transactions on Knowledge and Data Engineering (TKDE), ACM Transactions on Asian and Low-Resource Language Information Processing (TALLIP), Knowledge-based Systems (KBS), Future Generation Computer Systems (FGCS), Applied Intelligence (APIN), Data Intelligence (DI), Information.
 * 2019 - Knowledge-based Systems (KBS), Concurrency and Computation: Practice and Experience (CCPE), International Journal of Cognitive Informatics and Natural Intelligence (IJCINI), Information.
