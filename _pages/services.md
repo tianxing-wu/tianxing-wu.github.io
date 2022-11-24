@@ -16,8 +16,8 @@ author_profile: true
 * Data Intelligence (DI).
 
 **Reviewer:**
-* 2022 - Journal of Web Semantics (JWS), Information Processing & Management (IPM), Knowledge-based Systems (KBS), Applied Intelligence (APIN), Engineering Applications of Artificial Intelligence (EAAI), International Journal on Semantic Web and Information Systems (IJSWIS), Aslib Journal of Information Management (AJIM), Scientometrics (SCIM), Heritage Science, Data Intelligence (DI), Journal of Software (软件学报).
-* 2021 - Journal of Web Semantics (JWS), Knowledge-based Systems (KBS), Applied Intelligence (APIN), International Journal on Semantic Web and Information Systems (IJSWIS), Data Intelligence (DI), Journal of Software (软件学报).
+* 2022 - Journal of Web Semantics (JWS), Knowledge and Information Systems (KAIS), Information Processing & Management (IPM), Knowledge-based Systems (KBS), Applied Intelligence (APIN), Engineering Applications of Artificial Intelligence (EAAI), International Journal on Semantic Web and Information Systems (IJSWIS), Aslib Journal of Information Management (AJIM), Scientometrics (SCIM), Heritage Science, Data Intelligence (DI), Journal of Software (软件学报).
+* 2021 - Journal of Web Semantics (JWS), Knowledge-based Systems (KBS), Applied Intelligence (APIN), International Journal on Semantic Web and Information Systems (IJSWIS), Data Intelligence (DI), Intelligent Computing, Journal of Software (软件学报).
 * 2020 - IEEE Transactions on Knowledge and Data Engineering (TKDE), ACM Transactions on Asian and Low-Resource Language Information Processing (TALLIP), Knowledge-based Systems (KBS), Future Generation Computer Systems (FGCS), Applied Intelligence (APIN), Data Intelligence (DI), Information.
 * 2019 - Knowledge-based Systems (KBS), Concurrency and Computation: Practice and Experience (CCPE), International Journal of Cognitive Informatics and Natural Intelligence (IJCINI), Information.
 * 2018 - Knowledge-based Systems (KBS), International Journal on Semantic Web and Information Systems (IJSWIS).
@@ -42,6 +42,7 @@ author_profile: true
 * 2019 - JIST.
 
 **External Reviewer:**
+* 2023 - TheWebConf (WWW).
 * 2021 - TheWebConf (WWW).
 * 2020 - VLDB, TheWebConf (WWW), SIGMOD, CIKM.
 * 2019 - VLDB, TheWebConf (WWW), ISWC, DSAA.
