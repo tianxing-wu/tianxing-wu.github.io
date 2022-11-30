@@ -11,6 +11,9 @@ author_profile: true
 * JSAI Natural Language Processing Committee Member.
 
 ## Journal:
+**Guest Editor:** 
+* Mathematics: Special Issue "Mathematical Computation in Knowledge Graph: Theories, Techniques, and Applications".
+
 **Editorial Board Member:** 
 * International Journal on Semantic Web and Information Systems (IJSWIS).
 * Data Intelligence (DI).
