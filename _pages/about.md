@@ -19,11 +19,11 @@ In the above research areas, I have published over 40 papers in top-tier confere
 
 News
 ======
+* **Nov. 2022:** I was invited as a Guest Editor of Mathematics.
 * **Nov. 2022:** I received the Aegis Faculty Fellowship Award.
 * **Sep. 2022:** One journal paper was accepted by Front. Public Health (IF=6.461).
 * **Sep. 2022:** One journal paper was accepted by TKDE (IF=9.235, CCF A Journal).
 * **Aug. 2022:** Our team has achieved the CCKS 2022 Best English Paper Award.
-* **Jul. 2022:** One journal paper was accepted by Epidemiology & Infection (IF=4.434).
 
 Professional Experience
 ======
