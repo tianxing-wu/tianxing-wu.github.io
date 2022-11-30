@@ -12,7 +12,7 @@ author_profile: true
 
 ## Journal:
 **Guest Editor:** 
-* Mathematics: Special Issue "Mathematical Computation in Knowledge Graph: Theories, Techniques, and Applications" (2022).
+* 2022 - Mathematics: Special Issue "Mathematical Computation in Knowledge Graph: Theories, Techniques, and Applications".
 
 **Editorial Board Member:** 
 * International Journal on Semantic Web and Information Systems (IJSWIS).
