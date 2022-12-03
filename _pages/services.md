@@ -5,6 +5,7 @@ permalink: /services/
 author_profile: true
 ---
 ## Acadamic Organizations:
+* CCF Information System Committee Executive Member. 
 * CIPS Language and Knowledge Computing Committee Member. 
 * CCF YOCSEF Nanjing Academic Committee Member.
 * JSAI Knowledge Engineering and Intelligent Service Committee Member.
