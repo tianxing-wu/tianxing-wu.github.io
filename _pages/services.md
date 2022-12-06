@@ -39,6 +39,9 @@ author_profile: true
 * 2022 - CCKS Resource Track Chair.
 * 2021 - CCKS Poster & Demo Chair.
 
+**Senior Program Committee Member:**
+* 2023 - IJCAI. 
+
 **Program Committee Member:**
 * 2022 - AAAI, IJCAI, EMNLP, IJCKG, CCKS.
 * 2021 - AAAI, IJCAI, IJCKG, CCKS, PIC.

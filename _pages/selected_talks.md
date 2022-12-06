@@ -4,6 +4,7 @@ title: "Selected Talks"
 permalink: /selected_talks/
 author_profile: true
 ---
+* **12.2022:** The Research Progress of Uncertain Knowledge Graph Representation Learning. [Zhejiang Lab](https://www.zhejianglab.com/), Hangzhou, China (Online).
 * **12.2022:** The Research Progress of Uncertain Knowledge Graph Representation Learning. WISA 2022 (Online).
 * **10.2022:** The Research Progress of Uncertain Knowledge Graph Representation Learning. [School of Software Technology](https://www.cst.zju.edu.cn), Zhejiang University (ZJU), Ningbo, China (Online).
 * **12.2021:** A Preliminary Exploration on Autism Spectrum Disorder Knowledge Graph Construction. Autism Spectrum Disorder and Artificial Intelligence Forum, The 4th Jiangsu Artificial Intelligence Conference, Nanjing, China.
