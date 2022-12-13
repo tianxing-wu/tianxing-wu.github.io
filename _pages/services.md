@@ -43,6 +43,7 @@ author_profile: true
 * 2023 - IJCAI. 
 
 **Program Committee Member:**
+* 2023 - ACL.
 * 2022 - AAAI, IJCAI, EMNLP, IJCKG, CCKS.
 * 2021 - AAAI, IJCAI, IJCKG, CCKS, PIC.
 * 2020 - IJCAI, ECAI, ISWC (Research Track), PAKDD, JIST-KG.
