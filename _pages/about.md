@@ -19,11 +19,11 @@ In the above research areas, I have published over 40 papers in top-tier confere
 
 News
 ======
+* **Feb. 2023:** I was elected as the vice president of CCF YOCSEF Nanjing Academic Committee (2023-2024).
+* **Jan. 2023:** I was invited as the Evaluation Chair of CCKS 2O23.
 * **Dec. 2022:** One journal paper was accepted by TKDD (IF=4.157, CCF B).
 * **Dec. 2022:** I was invited as a program committee member of ACL 2023.
 * **Dec. 2022:** I was invited as a senior program committee member of IJCAI 2023.
-* **Dec. 2022:** I was elected as an executive member of CCF Information System Committee.
-* **Nov. 2022:** I was invited as a Guest Editor of Mathematics.
 
 Professional Experience
 ======

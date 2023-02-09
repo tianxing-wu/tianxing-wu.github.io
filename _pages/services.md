@@ -6,8 +6,8 @@ author_profile: true
 ---
 ## Acadamic Organizations:
 * CCF Information System Committee Executive Member. 
-* CIPS Language and Knowledge Computing Committee Member. 
-* CCF YOCSEF Nanjing Academic Committee Member.
+* CIPS Language and Knowledge Computing Committee Member.
+* CCF YOCSEF Nanjing Academic Committee Member (Vice President, 2023-2024; Member, 2022-).
 * JSAI Knowledge Engineering and Intelligent Service Committee Member.
 * JSAI Natural Language Processing Committee Member.
 
@@ -37,6 +37,7 @@ author_profile: true
 
 ## Conference:
 **Chair:**
+* 2023 - CCKS Evaluation Chair.
 * 2022 - CCKS Resource Track Chair.
 * 2021 - CCKS Poster & Demo Chair.
 
