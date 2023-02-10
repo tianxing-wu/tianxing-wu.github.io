@@ -19,7 +19,7 @@ In the above research areas, I have published over 40 papers in top-tier confere
 
 News
 ======
-* **Feb. 2023:** I was elected as the vice president of CCF YOCSEF Nanjing Academic Committee.
+* **Feb. 2023:** I was elected as the AC vice president of CCF YOCSEF Nanjing.
 * **Jan. 2023:** I was invited as the Evaluation Chair of CCKS 2023.
 * **Dec. 2022:** One journal paper was accepted by TKDD (IF=4.157, CCF B).
 * **Dec. 2022:** I was invited as a program committee member of ACL 2023.
