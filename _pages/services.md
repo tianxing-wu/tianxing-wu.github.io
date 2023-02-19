@@ -12,7 +12,8 @@ author_profile: true
 * JSAI Natural Language Processing Committee Member.
 
 ## Journal:
-**Guest Editor:** 
+**Guest Editor:**
+* 2023 - Applied Sciences: Special Issue "New Advances for Open-Domain Information Mining in Theories and Applications".
 * 2022 - Mathematics: Special Issue "Mathematical Computation in Knowledge Graph: Theories, Techniques, and Applications".
 
 **Editorial Board Member:** 
