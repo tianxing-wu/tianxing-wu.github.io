@@ -19,11 +19,11 @@ In the above research areas, I have published over 40 papers in top-tier confere
 
 News
 ======
+* **Apr. 2023:** Our Tutorial "Open-Environment Knowledge Graph Construction and Reasoning: Challenges, Approaches, and Opportunities" was accepted by IJCAI 2023.
+* **Apr. 2023:** I was invited as a program committee member of the resource track of ISWC 2023.
 * **Feb. 2023:** I was elected as the AC vice president of CCF YOCSEF Nanjing.
 * **Jan. 2023:** I was invited as the Evaluation Chair of CCKS 2023.
 * **Dec. 2022:** One journal paper was accepted by TKDD (IF=4.157, CCF B).
-* **Dec. 2022:** I was invited as a program committee member of ACL 2023.
-* **Dec. 2022:** I was invited as a senior program committee member of IJCAI 2023.
 
 Professional Experience
 ======
