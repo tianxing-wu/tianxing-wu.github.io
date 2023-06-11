@@ -46,7 +46,8 @@ author_profile: true
 * 2023 - IJCAI. 
 
 **Program Committee Member:**
-* 2023 - ACL, ISWC (Resource Track), ECAI, CSCWD, IEA/AIE.
+* 2024 - IEA/AIE.
+* 2023 - ACL, ISWC (Resource Track), ECAI, CSCWD, IEA/AIE, CCKS, WISA.
 * 2022 - AAAI, IJCAI, EMNLP, IJCKG, CCKS.
 * 2021 - AAAI, IJCAI, IJCKG, CCKS, PIC.
 * 2020 - IJCAI, ECAI, ISWC (Research Track), PAKDD, JIST-KG.
