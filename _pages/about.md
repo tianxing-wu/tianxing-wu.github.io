@@ -15,7 +15,7 @@ I am an assistant professor working at [School of Computer Science and Engineeri
 * **Semantic Web:** Linked Data, Open Data, Ontology;
 * **Artificial Intelligence Applications:** AI and Medicine, Law, Smart Grid, etc.
 
-In the above research areas, I have published over 40 papers in top-tier conferences and journals, such as ICDE, AAAI, IJCAI, ECAI, ISWC, TKDE, TKDD, JWS, WWWJ, etc. 
+In the above research areas, I have published over 40 papers in top-tier conferences and journals, such as ICDE, AAAI, IJCAI, ECAI, ISWC, TKDE, TKDD, JWS, WWWJ, and etc. 
 
 News
 ======
