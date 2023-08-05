@@ -21,7 +21,7 @@ author_profile: true
 * Data Intelligence (DI).
 
 **Reviewer:**
-* 2023 - World Wide Web-Internet and Web Information Systems (WWWJ), ACM Transactions on Asian and Low-Resource Language Information Processing (TALLIP), Knowledge-based Systems (KBS), Applied Intelligence (APIN), International Journal on Semantic Web and Information Systems (IJSWIS), Chinese Journal of Computers (计算机学报).
+* 2023 - World Wide Web-Internet and Web Information Systems (WWWJ), ACM Transactions on Asian and Low-Resource Language Information Processing (TALLIP), Knowledge-based Systems (KBS), Applied Intelligence (APIN), International Journal on Semantic Web and Information Systems (IJSWIS), Neural Processing Letters, Chinese Journal of Computers (计算机学报).
 * 2022 - Journal of Web Semantics (JWS), Knowledge and Information Systems (KAIS), Information Processing & Management (IPM), Knowledge-based Systems (KBS), Applied Intelligence (APIN), Engineering Applications of Artificial Intelligence (EAAI), International Journal on Semantic Web and Information Systems (IJSWIS), Aslib Journal of Information Management (AJIM), Scientometrics (SCIM), Heritage Science, Data Intelligence (DI), Journal of Software (软件学报).
 * 2021 - Journal of Web Semantics (JWS), Knowledge-based Systems (KBS), Applied Intelligence (APIN), International Journal on Semantic Web and Information Systems (IJSWIS), Data Intelligence (DI), Intelligent Computing, Journal of Software (软件学报).
 * 2020 - IEEE Transactions on Knowledge and Data Engineering (TKDE), ACM Transactions on Asian and Low-Resource Language Information Processing (TALLIP), Knowledge-based Systems (KBS), Future Generation Computer Systems (FGCS), Applied Intelligence (APIN), Data Intelligence (DI), Information.
@@ -47,7 +47,7 @@ author_profile: true
 
 **Program Committee Member:**
 * 2024 - IEA/AIE.
-* 2023 - ACL, ISWC (Resource Track), ECAI, CSCWD, IEA/AIE, CCKS, WISA.
+* 2023 - ACL, ISWC (Resource Track), ECAI, CSCWD, IJCKG, IEA/AIE, CCKS, WISA.
 * 2022 - AAAI, IJCAI, EMNLP, IJCKG, CCKS.
 * 2021 - AAAI, IJCAI, IJCKG, CCKS, PIC.
 * 2020 - IJCAI, ECAI, ISWC (Research Track), PAKDD, JIST-KG.
@@ -67,7 +67,8 @@ author_profile: true
 
 ## Workshop:
 **Program Committee Member:**
-* 2022 - EEKE, the 3rd Workshop on Extraction and Evaluation of Knowledge Entities from Scientific Documents (co-located with JCDL 2022)
+* 2023 - EEKE+AII, the Joint Workshop of the 4th Extraction and Evaluation of Knowledge Entities from Scientific Documents (EEKE 2023) and the 3rd AI + Informetrics (AII 2023) (co-located with JCDL 2023).
+* 2022 - EEKE, the 3rd Workshop on Extraction and Evaluation of Knowledge Entities from Scientific Documents (co-located with JCDL 2022).
 * 2021 - EEKE, the 2nd Workshop on Extraction and Evaluation of Knowledge Entities from Scientific Documents (co-located with JCDL 2021).
 * 2020 - GRADES-NDA, the 3rd Joint International Workshop on Graph Data Management Experiences & Systems and Network Data Analytics (co-located with SIGMOD 2020).
 * 2019 - GRADES-NDA, the 2nd Joint International Workshop on Graph Data Management Experiences & Systems and Network Data Analytics (co-located with SIGMOD 2019).
