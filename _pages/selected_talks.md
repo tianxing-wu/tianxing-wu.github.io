@@ -4,6 +4,7 @@ title: "Selected Talks"
 permalink: /selected_talks/
 author_profile: true
 ---
+* **08.2023:** Tutorial: Open-Environment Knowledge Graph Construction and Reasoning: Challenges, Approaches, and Opportunities, [[Link]](https://openkg-tutorial.github.io/). IJCAI 2023, Macao, China.
 * **12.2022:** The Research Progress of Uncertain Knowledge Graph Representation Learning. [Zhejiang Lab](https://www.zhejianglab.com/), Hangzhou, China (Online).
 * **12.2022:** The Research Progress of Uncertain Knowledge Graph Representation Learning. WISA 2022 (Online).
 * **10.2022:** The Research Progress of Uncertain Knowledge Graph Representation Learning. [School of Software Technology](https://www.cst.zju.edu.cn), Zhejiang University (ZJU), Ningbo, China (Online).
