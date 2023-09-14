@@ -16,7 +16,7 @@ author_profile: true
 * Yipeng Zhu (Dialogue System) (Paper in CCKS 2021, CCKS 2022, ISWC 2023)
 
 **2020:**
-* Chaoyu Gao (Knowledge Graph Completion) (Paper in EEKE 2022, Applied Sciences 2022)
+* Chaoyu Gao (Knowledge Graph Completion) (Paper in EEKE 2022, Applied Sciences 2022) (Next Position: Civil Servant, The Organization Department of Jiangsu Provincial Government)
 
 ## Undergraduate Students:
 **2019:**
