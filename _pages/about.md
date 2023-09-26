@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am an assistant professor working at [School of Computer Science and Engineering](http://cse.seu.edu.cn) of [Southeast University](https://www.seu.edu.cn), P.R. China. I also received the Ph.D. degree (2018) in Software Engineering from Southeast University. My research interests include:
+I am an associate professor working at [School of Computer Science and Engineering](http://cse.seu.edu.cn) of [Southeast University](https://www.seu.edu.cn), P.R. China. I also received the Ph.D. degree (2018) in Software Engineering from Southeast University. My research interests include:
 * **Knowledge Graph:** Knowledge Graph Construction, Completion, Fusion, and Update;
 * **Knowledge Representation and Reasoning:** Representation Learning, Rule Reasoning; 
 * **Data Mining:** Table Mining, Text Mining, Information Extraction, Graph Mining; 
