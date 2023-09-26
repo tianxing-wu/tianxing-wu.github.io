@@ -27,7 +27,10 @@ News
 
 Professional Experience
 ======
-January, 2020 - Now <br>
+April, 2023 - Now <br>
+Associate Professor at Southeast University, China <br>
+
+January, 2020 - April, 2023 <br>
 Assistant Professor at Southeast University, China <br>
 
 June, 2018 - December, 2019 <br>
