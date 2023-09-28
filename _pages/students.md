@@ -12,7 +12,7 @@ author_profile: true
 
 **2021:**
 * Yilin Chen (Rule Mining and Reasoning) (Paper in CCKS 2022)
-* Xudong Cao (Knowledge Graph Construction) (Paper in ISWC 2023)
+* Xudong Cao (Knowledge Graph Construction) (Paper in ISWC 2023; ISWC 2023 Student Travel Award)
 * Yipeng Zhu (Dialogue System) (Paper in CCKS 2021, CCKS 2022, ISWC 2023)
 
 **2020:**
