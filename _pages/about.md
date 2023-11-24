@@ -19,11 +19,11 @@ In the above research areas, I have published over 40 papers in top-tier confere
 
 News
 ======
+* **Oct. 2023:** I was invited as a program committee member of The Web Conference 2023.
 * **Aug. 2023:** I was granted by the NSFC General Program.
 * **Aug. 2023:** I was invited as a program committee member of EMNLP 2023.
 * **July 2023:** One paper was accepted by ISWC 2023.
 * **July 2023:** One paper was accepted by ECAI 2023.
-* **May 2023:** I was invited as a program committee member of ECAI 2023.
 
 Professional Experience
 ======
