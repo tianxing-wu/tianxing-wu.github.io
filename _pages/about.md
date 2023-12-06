@@ -19,6 +19,7 @@ In the above research areas, I have published over 40 papers in top-tier confere
 
 News
 ======
+* **Nov. 2023:** I was invited as a senior program committee member of IJCAI 2024.
 * **Oct. 2023:** I was invited as a program committee member of The Web Conference 2024.
 * **Aug. 2023:** I was granted by the NSFC General Program.
 * **Aug. 2023:** I was invited as a program committee member of EMNLP 2023.
