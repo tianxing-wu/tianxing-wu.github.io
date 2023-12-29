@@ -6,7 +6,7 @@ author_profile: true
 ---
 * **The Vice President of Science and Technology in Jiangsu Province**, 2023.
 * **The Excellent Undergraduate Supervisor of Southeast University**, 2022.
-* **CCKS 2022 Best English Paper Award**, 2022.
+* **CCKS 2022 Best Paper Award**, 2022.
 * **The Aegis Faculty Fellowship Award (10,000 CNY)**, 2022.
 * **ZhiShan Young Scholar of Southeast University**, 2021.
 * **The Doctor of Entrepreneurship and Innovation in Jiangsu Province**, 2021.

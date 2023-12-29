@@ -6,13 +6,20 @@ author_profile: true
 ---
 
 ## Master Students:
+**2023:** 
+* Shilin Chen (AI-based Blood Pressure Prediction)
+* Yunchang Liu (Geometric Knowledge Graph Embedding)
+* Wei Li (Uncertain Knowledge Graph Construction)
+* Lizhe Cao (AI-based Social Science Analysis)
+* Hangyu Sha (LLM for Knowledge Graph Reasoning)
+
 **2022:** 
-* Jingting Wang (Knowledge Graph Representation Learning) (Paper in CCKS 2022 (Best English Paper Award))
-* Feiyue Wu (Recommender System) (Paper in ISWC 2023)
+* Jingting Wang (Uncertain Knowledge Graph Representation Learning) (Paper in CCKS 2022 (Best Paper Award))
+* Feiyue Wu (Medication Recommendation) (Paper in ISWC 2023)
 
 **2021:**
 * Yilin Chen (Rule Mining and Reasoning) (Paper in CCKS 2022)
-* Xudong Cao (Knowledge Graph Construction) (Paper in ISWC 2023; ISWC 2023 Student Travel Award)
+* Xudong Cao (Domain Knowledge Graph Construction) (Paper in ISWC 2023, Data Intelligence 2023; ISWC 2023 Student Travel Award)
 * Yipeng Zhu (Dialogue System) (Paper in CCKS 2021, CCKS 2022, ISWC 2023)
 
 **2020:**
