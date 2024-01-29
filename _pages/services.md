@@ -21,6 +21,7 @@ author_profile: true
 * Data Intelligence (DI).
 
 **Reviewer:**
+* 2024 - IEEE Transactions on Knowledge and Data Engineering (TKDE), Knowledge-based Systems (KBS).
 * 2023 - IEEE Transactions on Knowledge and Data Engineering (TKDE), World Wide Web-Internet and Web Information Systems (WWWJ), ACM Transactions on Asian and Low-Resource Language Information Processing (TALLIP), Knowledge-based Systems (KBS), Applied Intelligence (APIN), International Journal on Semantic Web and Information Systems (IJSWIS), Neural Processing Letters, Chinese Journal of Computers (计算机学报), Journal of Computer Research and Development (计算机研究与发展).
 * 2022 - Journal of Web Semantics (JWS), Knowledge and Information Systems (KAIS), Information Processing & Management (IPM), Knowledge-based Systems (KBS), Applied Intelligence (APIN), Engineering Applications of Artificial Intelligence (EAAI), International Journal on Semantic Web and Information Systems (IJSWIS), Aslib Journal of Information Management (AJIM), Scientometrics (SCIM), Heritage Science, Data Intelligence (DI), Journal of Software (软件学报).
 * 2021 - Journal of Web Semantics (JWS), Knowledge-based Systems (KBS), Applied Intelligence (APIN), International Journal on Semantic Web and Information Systems (IJSWIS), Data Intelligence (DI), Intelligent Computing, Journal of Software (软件学报).
@@ -47,7 +48,7 @@ author_profile: true
 * 2023 - IJCAI. 
 
 **Program Committee Member:**
-* 2024 - TheWebConf (WWW), IEA/AIE.
+* 2024 - ACL, TheWebConf (WWW), IEA/AIE.
 * 2023 - ACL, ISWC (Resource Track), EMNLP, ECAI, CSCWD, IJCKG, IEA/AIE, CCKS, WISA.
 * 2022 - AAAI, IJCAI, EMNLP, IJCKG, CCKS.
 * 2021 - AAAI, IJCAI, IJCKG, CCKS, PIC.
