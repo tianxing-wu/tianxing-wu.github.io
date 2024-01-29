@@ -31,7 +31,7 @@ author_profile: true
 * 2017 - International Journal on Semantic Web and Information Systems (IJSWIS), Journal of Software (软件学报).
 
 **External Reviewer:**
-* 2019 - Information Sciences (IS).
+* 2019 - Information Sciences.
 * 2018 - Journal of Web Semantics (JWS).
 * 2016 - Journal of Web Semantics (JWS).
 * 2015 - Journal of Web Semantics (JWS).
