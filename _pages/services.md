@@ -21,7 +21,7 @@ author_profile: true
 * Data Intelligence (DI).
 
 **Reviewer:**
-* 2024 - IEEE Transactions on Knowledge and Data Engineering (TKDE), Knowledge-based Systems (KBS).
+* 2024 - IEEE Transactions on Knowledge and Data Engineering (TKDE), ACM Transactions on Asian and Low-Resource Language Information Processing (TALLIP), Knowledge-based Systems (KBS), International Journal on Semantic Web and Information Systems (IJSWIS).
 * 2023 - IEEE Transactions on Knowledge and Data Engineering (TKDE), World Wide Web-Internet and Web Information Systems (WWWJ), ACM Transactions on Asian and Low-Resource Language Information Processing (TALLIP), Knowledge-based Systems (KBS), Applied Intelligence (APIN), International Journal on Semantic Web and Information Systems (IJSWIS), Neural Processing Letters, Chinese Journal of Computers (计算机学报), Journal of Computer Research and Development (计算机研究与发展).
 * 2022 - Journal of Web Semantics (JWS), Knowledge and Information Systems (KAIS), Information Processing & Management (IPM), Knowledge-based Systems (KBS), Applied Intelligence (APIN), Engineering Applications of Artificial Intelligence (EAAI), International Journal on Semantic Web and Information Systems (IJSWIS), Aslib Journal of Information Management (AJIM), Scientometrics (SCIM), Heritage Science, Data Intelligence (DI), Journal of Software (软件学报).
 * 2021 - Journal of Web Semantics (JWS), Knowledge-based Systems (KBS), Applied Intelligence (APIN), International Journal on Semantic Web and Information Systems (IJSWIS), Data Intelligence (DI), Intelligent Computing, Journal of Software (软件学报).
@@ -68,7 +68,11 @@ author_profile: true
 
 
 ## Workshop:
+**Chair:**
+* 2024 - LLM+KG, International Workshop on Data Management Opportunities in Unifying Large Language Models + Knowledge Graphs (co-located with VLDB 2024)
+
 **Program Committee Member:**
+* 2024 - EEKE+AII, the Joint Workshop of the 5th Extraction and Evaluation of Knowledge Entities from Scientific Documents (EEKE2024) and the 4th AI + Informetrics (AII2024) (co-located with iConference 2024).
 * 2023 - EEKE+AII, the Joint Workshop of the 4th Extraction and Evaluation of Knowledge Entities from Scientific Documents (EEKE 2023) and the 3rd AI + Informetrics (AII 2023) (co-located with JCDL 2023).
 * 2022 - EEKE, the 3rd Workshop on Extraction and Evaluation of Knowledge Entities from Scientific Documents (co-located with JCDL 2022).
 * 2021 - EEKE, the 2nd Workshop on Extraction and Evaluation of Knowledge Entities from Scientific Documents (co-located with JCDL 2021).
