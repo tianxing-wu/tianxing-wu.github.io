@@ -19,12 +19,12 @@ In the above research areas, I have published over 50 papers in top-tier confere
 
 News
 ======
+* **Mar. 2024:** One paper was accepted by ICDE 2024.
 * **Mar. 2024:** One paper was accepted by ACM TALLIP.
 * **Feb. 2024:** I was invited as a program committee member of SIGKDD 2024.
 * **Feb. 2024:** I was invited as a program committee member of ECAI 2024.
 * **Jan. 2024:** I was invited as a program committee member of ACL 2024.
 * **Jan. 2024:** One paper was accepted by Information Sciences.
-* **Nov. 2023:** I was invited as a senior program committee member of IJCAI 2024.
 
 Professional Experience
 ======
