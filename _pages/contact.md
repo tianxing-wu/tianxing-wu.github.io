@@ -9,7 +9,7 @@ author_profile: true
 tianxingwu@seu.edu.cn
 
 ## Address:
-Room 506, School of Computer Science and Engineering, Southeast University, <br>
+Room 146, School of Computer Science and Engineering, Southeast University, <br>
 2# Southeast University Road, 211189, Nanjing, Jiangsu Province, P.R. China.
 
 ## 本科生出国及推免推荐信要求:
