@@ -4,7 +4,7 @@ title: "Selected Talks"
 permalink: /selected_talks/
 author_profile: true
 ---
-* **3.2024:** Uncertain Knowledge Graph Construction and Reasoning. [School of Computer Science](https://computer.hdu.edu.cn/main.htm), Hangzhou Dianzi University (HDU), Hangzhou, China.
+* **03.2024:** Uncertain Knowledge Graph Construction and Reasoning. [School of Computer Science](https://computer.hdu.edu.cn/main.htm), Hangzhou Dianzi University (HDU), Hangzhou, China.
 * **12.2023:** Uncertain Knowledge Graph Construction and Reasoning. [College of Computer Science](http://www.cs.cqu.edu.cn/xbwz/sy.htm), Chongqing University (CQU), Chongqing, China.
 * **11.2023:** AsdKB: A Chinese Knowledge Base for the Early Screening and Diagnosis of Autism Spectrum Disorder, [[Video]](https://videolectures.net/iswc2023_wu_spectrum_disorder/). ISWC 2023, Athens, Greece.
 * **10.2023:** Knowledge Graph Uncertainty Computation and Reasoning. [Cyberspace Institute of Advanced Techology](https://wyy.gzhu.edu.cn/index.htm), Guangzhou University (GU), Guangzhou, China.
