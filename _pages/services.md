@@ -39,6 +39,7 @@ author_profile: true
 
 ## Conference:
 **Chair:**
+* 2024 - CCKS Evaluation Chair, Resource Track Chair.
 * 2023 - CCKS Evaluation Chair.
 * 2022 - CCKS Resource Track Chair.
 * 2021 - CCKS Poster & Demo Chair.
