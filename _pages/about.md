@@ -13,18 +13,18 @@ I am an associate professor working at [School of Computer Science and Engineeri
 * **Knowledge Representation and Reasoning:** Representation Learning, Rule Reasoning; 
 * **Data Mining:** Table Mining, Text Mining, Information Extraction, Graph Mining; 
 * **Semantic Web:** Linked Data, Open Data, Ontology;
-* **Artificial Intelligence Applications:** AI and Medicine, Social Sciences, Smart Grid, etc.
+* **Artificial Intelligence Applications:** AI and Medical Health, Social Sciences, etc.
 
 In the above research areas, I have published over 50 papers in top-tier conferences and journals, such as ICDE, AAAI, IJCAI, ECAI, ISWC, TKDE, TKDD, JWS, WWWJ, and etc. 
 
 News
 ======
+* **Mar. 2024:** I was invited as the Evaluation Chair and Resource Track Chair of CCKS 2024.
 * **Mar. 2024:** One paper was accepted by ICDE 2024.
 * **Mar. 2024:** One paper was accepted by ACM TALLIP.
 * **Feb. 2024:** I was invited as a program committee member of SIGKDD 2024.
 * **Feb. 2024:** I was invited as a program committee member of ECAI 2024.
 * **Jan. 2024:** I was invited as a program committee member of ACL 2024.
-* **Jan. 2024:** One paper was accepted by Information Sciences.
 
 Professional Experience
 ======
