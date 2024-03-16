@@ -12,4 +12,4 @@ author_profile: true
 * **Teaching Assistant**, Introduction to Databases (2018-2019), Nanyang Technological University, Singapore
 
 ## Postgraduate Courses:
-* **Instructor**, Web Science (2020-), Southeast University, China
+* **Instructor**, Web Science (2023-), Southeast University, China
