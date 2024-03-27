@@ -7,14 +7,14 @@ author_profile: true
 
 ## Master Students:
 **2023:** 
-* Shilin Chen (AI-based Blood Pressure Prediction)
-* Yunchang Liu (Geometric Knowledge Graph Embedding)
-* Wei Li (Uncertain Knowledge Graph Construction)
+* Shilin Chen (AI-based Blood Pressure Prediction) (Paper in SIGIR 2024)
+* Yunchang Liu (Geometric Knowledge Graph Embedding) (Paper in SIGIR 2024)
+* Wei Li (Uncertain Knowledge Graph Construction) (Paper in SIGIR 2024)
 * Lizhe Cao (AI-based Social Science Analysis)
 * Hangyu Sha (LLM for Knowledge Graph Reasoning)
 
 **2022:** 
-* Jingting Wang (Uncertain Knowledge Graph Representation Learning) (Paper in CCKS 2022 (Best Paper Award))
+* Jingting Wang (Uncertain Knowledge Graph Representation Learning) (Paper in CCKS 2022 (Best Paper Award), SIGIR 2024)
 * Feiyue Wu (Medication Recommendation) (Paper in ISWC 2023)
 
 **2021:**
