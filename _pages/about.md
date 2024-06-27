@@ -10,9 +10,9 @@ redirect_from:
 
 I am an associate professor working at [School of Computer Science and Engineering](http://cse.seu.edu.cn) of [Southeast University](https://www.seu.edu.cn), P.R. China. I also received the Ph.D. degree (2018) in Software Engineering from Southeast University. My research interests include:
 * **Knowledge Graph:** Knowledge Graph Construction, Completion, Fusion, and Update;
+* **Large Language Model:** LLM Reasoning, Fine-Tuning, Enhancement; 
 * **Knowledge Representation and Reasoning:** Representation Learning, Rule Reasoning; 
 * **Data Mining:** Table Mining, Text Mining, Information Extraction, Graph Mining; 
-* **Semantic Web:** Linked Data, Open Data, Ontology;
 * **Artificial Intelligence Applications:** AI and Medical Health, Social Sciences, etc.
 
 In the above research areas, I have published over 50 papers in top-tier conferences and journals, such as ICDE, AAAI, IJCAI, ECAI, ISWC, TKDE, TKDD, JWS, WWWJ, and etc. 
