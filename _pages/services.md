@@ -7,7 +7,7 @@ author_profile: true
 ## Acadamic Organizations:
 * CCF Information System Committee Executive Member. 
 * CIPS Language and Knowledge Computing Committee Member.
-* CCF YOCSEF Nanjing Academic Committee Member (Vice President, 2023-2024; Member, 2022-).
+* CCF YOCSEF Nanjing Academic Committee Member (President, 2024-2025; Vice President, 2023-2024; Member, 2022-).
 * JSAI Knowledge Engineering and Intelligent Service Committee Member.
 * JSAI Natural Language Processing Committee Member.
 
@@ -49,7 +49,8 @@ author_profile: true
 * 2023 - IJCAI. 
 
 **Program Committee Member:**
-* 2024 - ACL, TheWebConf (WWW), SIGKDD, ECAI, ISWC (Resource Track), IEA/AIE.
+* 2025 - ACL, SIGKDD.
+* 2024 - NeurIPS, ACL, TheWebConf (WWW), SIGKDD, ISWC (Resource Track), EMNLP, ECAI, IEA/AIE, WISA.
 * 2023 - ACL, ISWC (Resource Track), EMNLP, ECAI, CSCWD, IJCKG, IEA/AIE, CCKS, WISA.
 * 2022 - AAAI, IJCAI, EMNLP, IJCKG, CCKS.
 * 2021 - AAAI, IJCAI, IJCKG, CCKS, PIC.
@@ -70,7 +71,8 @@ author_profile: true
 
 ## Workshop:
 **Chair:**
-* 2024 - LLM+KG, International Workshop on Data Management Opportunities in Unifying Large Language Models + Knowledge Graphs (co-located with VLDB 2024)
+* 2024 - LLM+KG, International Workshop on Data Management Opportunities in Unifying Large Language Models + Knowledge Graphs (co-located with VLDB 2024).
+* 2024 - LKM, the First International OpenKG Workshop Large Knowledge-Enhanced Models (co-located with IJCAI 2024).
 
 **Program Committee Member:**
 * 2024 - EEKE+AII, the Joint Workshop of the 5th Extraction and Evaluation of Knowledge Entities from Scientific Documents (EEKE2024) and the 4th AI + Informetrics (AII2024) (co-located with iConference 2024).

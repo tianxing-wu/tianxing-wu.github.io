@@ -4,6 +4,7 @@ permalink: /awards/
 title: "Awards"
 author_profile: true
 ---
+* **WISA 2024 Best Student Paper Award**, 2024.
 * **The Vice President of Science and Technology in Jiangsu Province**, 2023.
 * **The Excellent Undergraduate Supervisor of Southeast University**, 2022.
 * **CCKS 2022 Best Paper Award**, 2022.

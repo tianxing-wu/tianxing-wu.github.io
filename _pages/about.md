@@ -15,16 +15,17 @@ I am an associate professor working at [School of Computer Science and Engineeri
 * **Data Mining:** Table Mining, Text Mining, Information Extraction, Graph Mining; 
 * **Artificial Intelligence Applications:** AI and Medical Health, Social Sciences, etc.
 
-In the above research areas, I have published over 50 papers in top-tier conferences and journals, such as ICDE, AAAI, IJCAI, ECAI, ISWC, TKDE, TKDD, JWS, WWWJ, and etc. 
+In the above research areas, I have published over 60 papers in top-tier conferences and journals, such as ICDE, AAAI, IJCAI, ECAI, ISWC, TKDE, TKDD, JWS, WWWJ, and etc. 
 
 News
 ======
+* **Aug. 2024:** We achieved the Best Student Paper Award of WISA 2O24.
+* **Jul. 2024:** One paper was accepted by ISWC 2024.
+* **Jul. 2024:** One paper was accepted by ACM MM 2024.
 * **Mar. 2024:** Two papers were accepted by SIGIR 2024.
 * **Mar. 2024:** I was invited as the Evaluation Chair and Resource Track Chair of CCKS 2024.
 * **Mar. 2024:** I was invited as a program committee member of ISWC 2024.
 * **Mar. 2024:** One paper was accepted by ICDE 2024.
-* **Mar. 2024:** One paper was accepted by ACM TALLIP.
-* **Feb. 2024:** I was invited as a program committee member of SIGKDD 2024.
 
 Professional Experience
 ======
