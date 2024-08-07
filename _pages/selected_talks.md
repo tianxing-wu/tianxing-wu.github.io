@@ -4,6 +4,9 @@ title: "Selected Talks"
 permalink: /selected_talks/
 author_profile: true
 ---
+* **07.2024:** Chronic Disease Health Management Information System Construction Based on Large Language Model. [The 3rd CCF Northeast Conference](https://conf.ccf.org.cn/web/api/m1237452513549094912171507326998.action), Changchun, China.
+* **06.2024:** LLM-based Knowledge Graph Reasoning. [The 1st China Conference on Large Models](https://cclm.org.cn/), Beijing, China.
+* **05.2024:** LLM-based Knowledge Graph Reasoning. The 2024 CIPS Language and Knowledge Computing Committee Symposium, Fuzhou, China.
 * **03.2024:** Uncertain Knowledge Graph Construction and Reasoning. [School of Computer Science](https://computer.hdu.edu.cn/main.htm), Hangzhou Dianzi University (HDU), Hangzhou, China.
 * **12.2023:** Uncertain Knowledge Graph Construction and Reasoning. [College of Computer Science](http://www.cs.cqu.edu.cn/xbwz/sy.htm), Chongqing University (CQU), Chongqing, China.
 * **11.2023:** AsdKB: A Chinese Knowledge Base for the Early Screening and Diagnosis of Autism Spectrum Disorder, [[Video]](https://videolectures.net/iswc2023_wu_spectrum_disorder/). ISWC 2023, Athens, Greece.
