@@ -15,7 +15,7 @@ I am an associate professor working at [School of Computer Science and Engineeri
 * **Data Mining:** Table Mining, Text Mining, Information Extraction, Graph Mining; 
 * **Artificial Intelligence Applications:** AI and Medical Health, Social Sciences, etc.
 
-In the above research areas, I have published over 60 papers in top-tier conferences and journals, such as ICDE, AAAI, IJCAI, ECAI, ISWC, TKDE, TKDD, JWS, WWWJ, and etc. 
+In the above research areas, I have published over 60 papers in top-tier conferences and journals, such as ICDE, AAAI, IJCAI, SIGIR, MM, ISWC, ECAI, TKDE, TKDD, JWS, WWWJ, and etc. 
 
 News
 ======
