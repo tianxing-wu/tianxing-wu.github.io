@@ -4,6 +4,7 @@ title: "Selected Talks"
 permalink: /selected_talks/
 author_profile: true
 ---
+* **08.2024:** LLM-based Knowledge Graph Reasoning. [The Seventh International Workshop on Knowledge Graph Management and Applications (KGMA 2024) in conjunction with APWeb-WAIM 2024](https://kgma-conf.github.io/2024/inv.html), Jinhua, China.
 * **07.2024:** Chronic Disease Health Management Information System Construction Based on Large Language Model. [The 3rd CCF Northeast Conference](https://conf.ccf.org.cn/web/api/m1237452513549094912171507326998.action), Changchun, China.
 * **06.2024:** LLM-based Knowledge Graph Reasoning. [The 1st China Conference on Large Models](https://cclm.org.cn/), Beijing, China.
 * **05.2024:** LLM-based Knowledge Graph Reasoning. The 2024 CIPS Language and Knowledge Computing Committee Symposium, Fuzhou, China.
