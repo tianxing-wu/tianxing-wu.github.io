@@ -19,13 +19,13 @@ In the above research areas, I have published over 60 papers in top-tier confere
 
 News
 ======
-* **Aug. 2024:** I was invited as a program committee member of ICLR 2025, SIGKDD 2025, TheWebConf 2025.
+* **Aug. 2024:** I was invited as a program committee member of ICLR 2025.
+* **Aug. 2024:** I was invited as a program committee member of SIGKDD 2025 and TheWebConf 2025.
 * **Aug. 2024:** We achieved the Best Student Paper Award of WISA 2024.
 * **Jul. 2024:** One paper was accepted by ISWC 2024.
 * **Jul. 2024:** One paper was accepted by ACM MM 2024.
 * **Mar. 2024:** Two papers were accepted by SIGIR 2024.
 * **Mar. 2024:** I was invited as the Evaluation Chair and Resource Track Chair of CCKS 2024.
-* **Mar. 2024:** I was invited as a program committee member of ISWC 2024.
 
 Professional Experience
 ======
