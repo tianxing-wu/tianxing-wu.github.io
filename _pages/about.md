@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am an associate professor working at [School of Computer Science and Engineering](http://cse.seu.edu.cn) of [Southeast University](https://www.seu.edu.cn), P.R. China. I also received the Ph.D. degree (2018) in Software Engineering from Southeast University. My research interests include:
+I am an associate professor working at [School of Computer Science and Engineering](http://cs.seu.edu.cn) of [Southeast University](https://www.seu.edu.cn), P.R. China. I also received the Ph.D. degree (2018) in Software Engineering from Southeast University. My research interests include:
 * **Knowledge Graph:** Knowledge Graph Construction, Completion, Fusion, and Update;
 * **Large Language Model:** LLM Reasoning, Fine-Tuning, Enhancement; 
 * **Knowledge Representation and Reasoning:** Representation Learning, Rule Reasoning; 
@@ -19,13 +19,13 @@ In the above research areas, I have published over 60 papers in top-tier confere
 
 News
 ======
+* **Aug. 2024:** I was invited as a program committee member of ICLR 2025, SIGKDD 2025, TheWebConf 2025.
 * **Aug. 2024:** We achieved the Best Student Paper Award of WISA 2024.
 * **Jul. 2024:** One paper was accepted by ISWC 2024.
 * **Jul. 2024:** One paper was accepted by ACM MM 2024.
 * **Mar. 2024:** Two papers were accepted by SIGIR 2024.
 * **Mar. 2024:** I was invited as the Evaluation Chair and Resource Track Chair of CCKS 2024.
 * **Mar. 2024:** I was invited as a program committee member of ISWC 2024.
-* **Mar. 2024:** One paper was accepted by ICDE 2024.
 
 Professional Experience
 ======
