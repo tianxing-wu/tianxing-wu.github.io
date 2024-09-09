@@ -26,7 +26,6 @@ News
 * **Jul. 2024:** One paper was accepted by ISWC 2024.
 * **Jul. 2024:** One paper was accepted by ACM MM 2024.
 * **Mar. 2024:** Two papers were accepted by SIGIR 2024.
-* **Mar. 2024:** I was invited as the Evaluation Chair and Resource Track Chair of CCKS 2024.
 
 Professional Experience
 ======
