@@ -19,6 +19,7 @@ In the above research areas, I have published over 60 papers in top-tier confere
 
 News
 ======
+* **Sep. 2024:** One paper was accepted by WWW Journal.
 * **Aug. 2024:** I was invited as a program committee member of ICLR 2025.
 * **Aug. 2024:** I was invited as a program committee member of TheWebConf 2025.
 * **Aug. 2024:** I was invited as a program committee member of SIGKDD 2025.
