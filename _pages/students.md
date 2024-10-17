@@ -8,10 +8,10 @@ author_profile: true
 ## Master Students:
 **2023:** 
 * Shilin Chen (AI-based Blood Pressure Prediction) (Paper in SIGIR 2024 (Best Short Paper Nominee))
-* Yunchang Liu (LLM-based Rule Mining from Uncertain Knowledge Graph) (Papers in WISA 2024 (Best Student Paper Award), SIGIR 2024 (Best Short Paper Nominee))
-* Wei Li (Uncertain Knowledge Graph Construction) (Paper in SIGIR 2024 (Best Short Paper Nominee))
+* Yunchang Liu (Continual Learning on LLM) (Papers in WISA 2024 (Best Student Paper Award), SIGIR 2024 (Best Short Paper Nominee))
+* Wei Li (Uncertain Knowledge Graph Construction) (Paper in SIGIR 2024 (Best Short Paper Nominee), World Wide Web Journal 2024)
 * Lizhe Cao (AI-based Social Science Analysis)
-* Hangyu Sha (AI-based Medical Health)
+* Hangyu Sha (Retrieval-Augmented Generation)
 
 **2022:** 
 * Jingting Wang (Uncertain Knowledge Graph Representation Learning) (Papers in CCKS 2022 (Best Paper Award), SIGIR 2024 (Best Short Paper Nominee), ISWC 2024)
