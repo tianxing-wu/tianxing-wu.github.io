@@ -6,6 +6,7 @@ author_profile: true
 ---
 ## Acadamic Organizations:
 * CCF Information System Committee Executive Member. 
+* CCF Natural Language Processing Committee Executive Member. 
 * CIPS Language and Knowledge Computing Committee Member.
 * CCF YOCSEF Nanjing Academic Committee Member (President, 2024-2025; Vice President, 2023-2024; Member, 2022-).
 * JSAI Knowledge Engineering and Intelligent Service Committee Member.
@@ -21,7 +22,7 @@ author_profile: true
 * Data Intelligence (DI).
 
 **Reviewer:**
-* 2024 - IEEE Transactions on Knowledge and Data Engineering (TKDE), World Wide Web-Internet and Web Information Systems (WWWJ), Data Science and Engineering (DSE), ACM Transactions on Asian and Low-Resource Language Information Processing (TALLIP), Knowledge-based Systems (KBS), International Journal on Semantic Web and Information Systems (IJSWIS), Data Intelligence (DI), Chinese Journal of Computers (计算机学报).
+* 2024 - IEEE Transactions on Knowledge and Data Engineering (TKDE), ACM Transactions on Information Systems (TOIS), World Wide Web-Internet and Web Information Systems (WWWJ), Data Science and Engineering (DSE), ACM Transactions on Asian and Low-Resource Language Information Processing (TALLIP), Knowledge-based Systems (KBS), International Journal on Semantic Web and Information Systems (IJSWIS), Data Intelligence (DI), Chinese Journal of Computers (计算机学报).
 * 2023 - IEEE Transactions on Knowledge and Data Engineering (TKDE), World Wide Web-Internet and Web Information Systems (WWWJ), ACM Transactions on Asian and Low-Resource Language Information Processing (TALLIP), Knowledge-based Systems (KBS), Applied Intelligence (APIN), International Journal on Semantic Web and Information Systems (IJSWIS), Neural Processing Letters, Chinese Journal of Computers (计算机学报), Journal of Computer Research and Development (计算机研究与发展).
 * 2022 - Journal of Web Semantics (JWS), Knowledge and Information Systems (KAIS), Information Processing & Management (IPM), Knowledge-based Systems (KBS), Applied Intelligence (APIN), Engineering Applications of Artificial Intelligence (EAAI), International Journal on Semantic Web and Information Systems (IJSWIS), Aslib Journal of Information Management (AJIM), Scientometrics (SCIM), Heritage Science, Data Intelligence (DI), Journal of Software (软件学报).
 * 2021 - Journal of Web Semantics (JWS), Knowledge-based Systems (KBS), Applied Intelligence (APIN), International Journal on Semantic Web and Information Systems (IJSWIS), Data Intelligence (DI), Intelligent Computing, Journal of Software (软件学报).

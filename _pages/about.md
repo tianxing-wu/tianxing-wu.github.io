@@ -19,6 +19,7 @@ In the above research areas, I have published over 60 papers in top-tier confere
 
 News
 ======
+* **Nov. 2024:** One paper was accepted by SIGMOD 2025.
 * **Sep. 2024:** One paper was accepted by WWW Journal.
 * **Aug. 2024:** I was invited as a program committee member of ICLR 2025.
 * **Aug. 2024:** I was invited as a program committee member of TheWebConf 2025.
@@ -26,7 +27,6 @@ News
 * **Aug. 2024:** We achieved the Best Student Paper Award of WISA 2024.
 * **Jul. 2024:** One paper was accepted by ISWC 2024.
 * **Jul. 2024:** One paper was accepted by ACM MM 2024.
-* **Mar. 2024:** Two papers were accepted by SIGIR 2024.
 
 Professional Experience
 ======
