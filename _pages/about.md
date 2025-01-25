@@ -19,14 +19,14 @@ In the above research areas, I have published over 60 papers in top-tier confere
 
 News
 ======
+* **Jan. 2025:** One paper was accepted by DASFAA 2025.
+* **Jan. 2025:** I was invited as a program committee member of SIGIR 2025.
+* **Dec. 2024:** I was invited as a program committee member of ICML 2025.
 * **Dec. 2024:** I was invited as an area chair of IJCAI 2025.
 * **Nov. 2024:** One paper was accepted by SIGMOD 2025.
 * **Sep. 2024:** One paper was accepted by WWW Journal.
 * **Aug. 2024:** I was invited as a program committee member of ICLR 2025.
 * **Aug. 2024:** I was invited as a program committee member of TheWebConf 2025.
-* **Aug. 2024:** I was invited as a program committee member of SIGKDD 2025.
-* **Aug. 2024:** We achieved the Best Student Paper Award of WISA 2024.
-* **Jul. 2024:** One paper was accepted by ISWC 2024.
 
 Professional Experience
 ======

@@ -4,6 +4,9 @@ title: "Selected Talks"
 permalink: /selected_talks/
 author_profile: true
 ---
+* **01.2025:** unKR: An Uncertain Knowledge Graph Reasoning Tool. [The 2024 Chinese Open Knowledge Graph Community Conference and OpenKG Annual Meeting], Suzhou, China.
+* **11.2024:** Uncertain Knowledge Graph Construction and Reasoning. [School of Computer Science and Technology](https://scie.zjgsu.edu.cn/), Zhejiang Gongshang University (ZJSU), Hangzhou, China.
+* **09.2024:** Knowledge Graph Reasoning in the Age of Large Languange Model. [The 18th China Conference on Knowledge Graph and Semantic Computing and The 13th International Joint Conference on Knowledge Graphs (CCKS-IJCKG 2024)](https://sigkg.cn/ccks-ijckg2024/), Chongqing, China.
 * **08.2024:** LLM-based Knowledge Graph Reasoning. [The Seventh International Workshop on Knowledge Graph Management and Applications (KGMA 2024) in conjunction with APWeb-WAIM 2024](https://kgma-conf.github.io/2024/inv.html), Jinhua, China.
 * **07.2024:** Chronic Disease Health Management Information System Construction Based on Large Language Model. [The 3rd CCF Northeast Conference](https://conf.ccf.org.cn/web/api/m1237452513549094912171507326998.action), Changchun, China.
 * **06.2024:** LLM-based Knowledge Graph Reasoning. [The 1st China Conference on Large Models](https://cclm.org.cn/), Beijing, China.

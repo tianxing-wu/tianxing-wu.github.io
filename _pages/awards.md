@@ -4,6 +4,7 @@ permalink: /awards/
 title: "Awards"
 author_profile: true
 ---
+* **OpenKG Annual Outstanding Open Resource Award**, 2024.
 * **SIGIR 2024 Best Short Paper Nominee**, 2024.
 * **WISA 2024 Best Student Paper Award**, 2024.
 * **The Vice President of Science and Technology in Jiangsu Province**, 2023.

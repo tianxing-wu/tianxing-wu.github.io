@@ -54,7 +54,7 @@ author_profile: true
 * 2023 - IJCAI. 
 
 **Program Committee Member:**
-* 2025 - ACL, ICLR, SIGKDD, TheWebConf (WWW), NAACL, AISTATS.
+* 2025 - ACL, ICLR, SIGKDD, ICML, TheWebConf (WWW), SIGIR, NAACL, AISTATS.
 * 2024 - NeurIPS, ACL, TheWebConf (WWW), SIGKDD, ISWC (Resource Track), EMNLP, ECAI, IEA/AIE, WISA.
 * 2023 - ACL, ISWC (Resource Track), EMNLP, ECAI, CSCWD, IJCKG, IEA/AIE, CCKS, WISA.
 * 2022 - AAAI, IJCAI, EMNLP, IJCKG, CCKS.
