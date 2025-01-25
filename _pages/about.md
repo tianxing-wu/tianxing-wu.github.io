@@ -19,6 +19,7 @@ In the above research areas, I have published over 60 papers in top-tier confere
 
 News
 ======
+* **Jan. 2025:** We have achieved 2024 OpenKG Annual Outstanding Open Resource Award.
 * **Jan. 2025:** One paper was accepted by DASFAA 2025.
 * **Jan. 2025:** I was invited as a program committee member of SIGIR 2025.
 * **Dec. 2024:** I was invited as a program committee member of ICML 2025.
