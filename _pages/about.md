@@ -49,11 +49,11 @@ Education
 ======
 March, 2015 - September, 2018 <br>
 Ph.D. in Software Engineering at Southeast University, China <br>
-(Advisor: Prof. Dr. [Guilin Qi](https://cse.seu.edu.cn/2019/0103/c23024a257135/page.htm))
+(Advisor: Prof. Dr. [Guilin Qi](https://cs.seu.edu.cn/gqi/main.htm))
 
 September, 2012 - November, 2014 <br>
 M.E. in Software Engineering at Southeast University, China <br>
-(Advisor: Prof. Dr. [Guilin Qi](https://cse.seu.edu.cn/2019/0103/c23024a257135/page.htm))
+(Advisor: Prof. Dr. [Guilin Qi](https://cs.seu.edu.cn/gqi/main.htm))
 
 September, 2008 - June, 2012 <br>
 B.E. in Computer Science and Technology (Software Class) at Nanjing Tech University, China
