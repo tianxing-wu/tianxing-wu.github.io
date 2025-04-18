@@ -15,19 +15,19 @@ I am an associate professor working at [School of Computer Science and Engineeri
 * **Data Mining:** Table Mining, Text Mining, Information Extraction, Graph Mining; 
 * **Artificial Intelligence Applications:** AI and Medical Health, Social Sciences, etc.
 
-In the above research areas, I have published over 60 papers in top-tier conferences and journals, such as SIGMOD, ICDE, AAAI, IJCAI, SIGIR, MM, ISWC, ECAI, TKDE, TKDD, JWS, WWWJ, and etc. 
+In the above research areas, I have published over 60 papers in top-tier conferences and journals, such as SIGMOD, ICDE, AAAI, IJCAI, SIGIR, MM, ISWC, ECAI, TKDE, TSC, TKDD, JWS, WWWJ, and etc. 
 
 News
 ======
-* **Feb. 2024:** I was invited as a program committee member of ECAI 2025.
+* **Apr. 2025:** I was invited as a program committee member of CIKM 2025.
+* **Apr. 2025:** One paper was accepted by IEEE Transactions on Services Computing.
+* **Mar. 2025:** I was invited as a program committee member of ISWC 2025.
+* **Feb. 2025:** One paper was accepted by IEEE Transactions on Image Processing.
+* **Feb. 2025:** One paper was accepted by EDBT 2025.
+* **Feb. 2025:** I was invited as a program committee member of NeurIPS 2025.
+* **Feb. 2025:** I was invited as the evaluation challenge chair of IJCKG 2025.
+* **Feb. 2025:** I was invited as a program committee member of ECAI 2025.
 * **Jan. 2025:** We have achieved the 2024 OpenKG Annual Outstanding Open Resource Award.
-* **Jan. 2025:** One paper was accepted by DASFAA 2025.
-* **Jan. 2025:** I was invited as a program committee member of SIGIR 2025.
-* **Dec. 2024:** I was invited as a program committee member of ICML 2025.
-* **Dec. 2024:** I was invited as an area chair of IJCAI 2025.
-* **Nov. 2024:** One paper was accepted by SIGMOD 2025.
-* **Sep. 2024:** One paper was accepted by WWW Journal.
-* **Aug. 2024:** I was invited as a program committee member of ICLR 2025.
 
 Professional Experience
 ======

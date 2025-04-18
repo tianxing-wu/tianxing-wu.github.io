@@ -4,6 +4,7 @@ title: "Selected Talks"
 permalink: /selected_talks/
 author_profile: true
 ---
+* **03.2025:** Tutorial: Unifying Large Language Models and Knowledge Graphs for Question Answering: Recent Advances and Opportunities, [[Link]](https://machuangtao.github.io/LLM-KG4QA/tutorial-edbt25/) EDBT 2025, Barcelona, Spain.
 * **01.2025:** unKR: An Uncertain Knowledge Graph Reasoning Tool. The 2024 Chinese Open Knowledge Graph Community Conference and OpenKG Annual Meeting, Suzhou, China.
 * **11.2024:** Uncertain Knowledge Graph Construction and Reasoning. [School of Computer Science and Technology](https://scie.zjgsu.edu.cn/), Zhejiang Gongshang University (ZJSU), Hangzhou, China.
 * **09.2024:** Knowledge Graph Reasoning in the Age of Large Languange Model. [The 18th China Conference on Knowledge Graph and Semantic Computing and The 13th International Joint Conference on Knowledge Graphs (CCKS-IJCKG 2024)](https://sigkg.cn/ccks-ijckg2024/), Chongqing, China.
