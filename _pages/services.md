@@ -15,6 +15,7 @@ author_profile: true
 
 ## Journal:
 **Guest Editor:**
+* 2025 - Data Intelligence: Special Issue "Multimodal AI Agents: Techniques and Applications".
 * 2023 - Applied Sciences: Special Issue "New Advances for Open-Domain Information Mining in Theories and Applications".
 * 2022 - Mathematics: Special Issue "Mathematical Computation in Knowledge Graph: Theories, Techniques, and Applications".
 
