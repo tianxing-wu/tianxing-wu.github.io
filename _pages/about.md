@@ -21,13 +21,12 @@ News
 ======
 * **Apr. 2025:** I was invited as a program committee member of CIKM 2025.
 * **Apr. 2025:** One paper was accepted by IEEE Transactions on Services Computing.
+* **Mar. 2025:** One paper was accepted by SIGMOD Record.
 * **Mar. 2025:** I was invited as a program committee member of ISWC 2025.
 * **Feb. 2025:** One paper was accepted by IEEE Transactions on Image Processing.
 * **Feb. 2025:** One paper was accepted by EDBT 2025.
 * **Feb. 2025:** I was invited as a program committee member of NeurIPS 2025.
 * **Feb. 2025:** I was invited as the evaluation challenge chair of IJCKG 2025.
-* **Feb. 2025:** I was invited as a program committee member of ECAI 2025.
-* **Jan. 2025:** We have achieved the 2024 OpenKG Annual Outstanding Open Resource Award.
 
 Professional Experience
 ======

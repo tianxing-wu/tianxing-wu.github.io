@@ -11,6 +11,7 @@ The full list of my publications can be found in [Google Scholar](https://schola
 
 ## Journal Papers:
 * **[TSC 2025]** Shuang Wang, He Zhang, **Tianxing Wu**, Yueyou Zhang, Wei Emma Zhang, Quan Z. Sheng. Electricity Cost Minimization for Multi-Workflow Allocation in Geo-Distributed Data Centers. <i>IEEE Transactions on Services Computing (TSC)</i>, 2025. (IF=5.5, CCF A)
+* **[SIGMOD Rec. 2025]** Arijit Khan, **Tianxing Wu**, Xi Chen. LLM+KG@VLDB’24 Workshop Summary. <i>SIGMOD Record</i>, 2025. (IF=0.9)
 * **[TIP 2025]** Qianyu Guo, Jingrong Wu, **Tianxing Wu**, Haofen Wang, Weifeng Ge, Wenqiang Zhang. Enhancing Environmental Robustness in Few-shot Learning via Conditional Representation Learning. <i>IEEE Transactions on Image Processing (TIP)</i>, 2025. (IF=10.8, CCF A)
 * **[WWWJ 2024]** **Tianxing Wu**, Kai Yao, Wei Li, Guilin Qi, Yijun Yu, Nengwen Zhao, Renyou Zhang, Peibo Duan. Triple Confidence Measurement in Knowledge Graph with Multiple Heterogeneous Evidences, [[Link]](https://link.springer.com/article/10.1007/s11280-024-01307-x). <i>World Wide Web-Internet and Web Information Systems (WWWJ)</i>, 2024, 27(6): 70. (IF=2.7, CCF B)
 * **[TALLIP 2024]** **Tianxing Wu**, Lin Li, Huan Gao, Guilin Qi, Yuxiang Wang, Yuehua Li. NPEL: Neural Paired Entity Linking in Web Tables, [[Link]](https://dl.acm.org/doi/pdf/10.1145/3652511). <i>ACM Transactions on Asian and Low-Resource Language Information Processing (TALLIP)</i>, 2024. (IF=2, CCF C)
