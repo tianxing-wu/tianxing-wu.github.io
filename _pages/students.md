@@ -8,22 +8,22 @@ author_profile: true
 ## Master Students:
 **2024:** 
 * Jingyi Xu (AI for Autism Spectrum Disorder) (Paper in SIGIR 2024 (Best Short Paper Nominee))
-* Shutong Zhu (Uncertain Knowledge Graph Reasoning) (Paper in SIGIR 2024 (Best Short Paper Nominee))
+* Shutong Zhu (Uncertain Knowledge Graph Reasoning) (Papers in SIGIR 2024 (Best Short Paper Nominee), IJCAI 2025)
 * Shiqi Zhang (Few-Shot Uncertain Knowledge Graph Reasoning)
 * Yuang Gu (AI-based Blood Pressure Prediction)
 * Runfeng Liu (LLM for Medical Health) (Paper in CHIP 2024)
-* Yerong Wu (Memory-based Retrieval-Augmented Generation)
+* Yerong Wu (Memory-based Retrieval-Augmented Generation) (Paper in IJCAI 2025)
 
 **2023:** 
 * Shilin Chen (AI-based Blood Pressure Prediction) (Paper in SIGIR 2024 (Best Short Paper Nominee))
 * Yunchang Liu (Continual Learning on LLM) (Papers in WISA 2024 (Best Student Paper Award), SIGIR 2024 (Best Short Paper Nominee))
-* Wei Li (Uncertain Knowledge Graph Construction) (Paper in SIGIR 2024 (Best Short Paper Nominee), World Wide Web Journal 2024)
-* Lizhe Cao (AI-based Social Science Analysis)
-* Hangyu Sha (Retrieval-Augmented Generation) (Paper in CHIP 2024, Journal of Computer Research and Development (计算机研究与发展) 2025)
+* Wei Li (Uncertain Knowledge Graph Construction) (Papers in SIGIR 2024 (Best Short Paper Nominee), World Wide Web Journal 2024)
+* Lizhe Cao (AI-based Social Science Analysis) (Paper in IJCAI 2025)
+* Hangyu Sha (Retrieval-Augmented Generation) (Papers in CHIP 2024, Journal of Computer Research and Development (计算机研究与发展) 2025)
 
 **2022:** 
 * Jingting Wang (Uncertain Knowledge Graph Representation Learning) (Papers in CCKS 2022 (Best Paper Award), SIGIR 2024 (Best Short Paper Nominee), ISWC 2024)
-* Feiyue Wu (Medication Recommendation) (Paper in ISWC 2023)
+* Feiyue Wu (Medication Recommendation) (Papers in ISWC 2023, IJCAI 2025)
 
 **2021:**
 * Yilin Chen (Rule Mining and Reasoning) (Papers in CCKS 2022, WISA 2024 (Best Student Paper Award)) (Next Position: Algorithm Engineer, iFLYTEK)
