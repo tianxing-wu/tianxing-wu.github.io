@@ -19,6 +19,7 @@ In the above research areas, I have published over 60 papers in top-tier confere
 
 News
 ======
+* **Apr. 2025:** Two papers were accepted by IJCAI 2025.
 * **Apr. 2025:** I was invited as a program committee member of CIKM 2025.
 * **Apr. 2025:** One paper was accepted by IEEE Transactions on Services Computing.
 * **Mar. 2025:** One paper was accepted by SIGMOD Record.
@@ -26,7 +27,6 @@ News
 * **Feb. 2025:** One paper was accepted by IEEE Transactions on Image Processing.
 * **Feb. 2025:** One paper was accepted by EDBT 2025.
 * **Feb. 2025:** I was invited as a program committee member of NeurIPS 2025.
-* **Feb. 2025:** I was invited as the evaluation challenge chair of IJCKG 2025.
 
 Professional Experience
 ======
