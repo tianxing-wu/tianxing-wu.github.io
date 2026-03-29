@@ -12,7 +12,7 @@ author_profile: true
 * The Technical Committee of CAAI Causality and Uncertainty in Artificial Intelligence (Member).
 * CCF Nanjing Chapter (Executive Member).
 * CCF YOCSEF Nanjing (President, 2024-2025; Vice President, 2023-2024; Academic Committee Member, 2022-).
-* The Technical Committee of Knowledge Engineering and Intelligent Service (Member).(Member)
+* The Technical Committee of Knowledge Engineering and Intelligent Service (Member).
 * The Technical Committee of Natural Language Processing (Member).
 
 ## Journal:

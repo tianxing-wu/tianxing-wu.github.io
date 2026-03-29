@@ -4,11 +4,15 @@ title: "Selected Talks"
 permalink: /selected_talks/
 author_profile: true
 ---
+* **11.2025:** Uncertain Knowledge Graph. ZTE, Nanjing, China.
+* **09.2025:** Uncertain Knowledge Graph. [The 7th International APWeb-WAIM Workshop on Semi-structured Big Data Management and Applications (SemiBDMA 2025) in conjunction with APWeb-WAIM 2025](https://apweb2025.sau.edu.cn/SemiBDMA2025.html), Shenyang, China.
+* **06.2025:** Uncertain Knowledge Graph. [College of Computer Science](https://jsjxy.bistu.edu.cn/), Beijing Information Science and Technology University, Beijing, China.
 * **03.2025:** Tutorial: Unifying Large Language Models and Knowledge Graphs for Question Answering: Recent Advances and Opportunities, [[Link]](https://machuangtao.github.io/LLM-KG4QA/tutorial-edbt25/). EDBT 2025, Barcelona, Spain.
 * **01.2025:** unKR: An Uncertain Knowledge Graph Reasoning Tool. The 2024 Chinese Open Knowledge Graph Community Conference and OpenKG Annual Meeting, Suzhou, China.
+* **12.2024:** Knowledge Graph Reasoning in the Age of Large Languange Model. Huawei, Shanghai, China.
 * **11.2024:** Uncertain Knowledge Graph Construction and Reasoning. [School of Computer Science and Technology](https://scie.zjgsu.edu.cn/), Zhejiang Gongshang University (ZJSU), Hangzhou, China.
 * **09.2024:** Knowledge Graph Reasoning in the Age of Large Languange Model. [The 18th China Conference on Knowledge Graph and Semantic Computing and The 13th International Joint Conference on Knowledge Graphs (CCKS-IJCKG 2024)](https://sigkg.cn/ccks-ijckg2024/), Chongqing, China.
-* **08.2024:** LLM-based Knowledge Graph Reasoning. [The Seventh International Workshop on Knowledge Graph Management and Applications (KGMA 2024) in conjunction with APWeb-WAIM 2024](https://kgma-conf.github.io/2024/inv.html), Jinhua, China.
+* **08.2024:** LLM-based Knowledge Graph Reasoning. [The 7th International Workshop on Knowledge Graph Management and Applications (KGMA 2024) in conjunction with APWeb-WAIM 2024](https://kgma-conf.github.io/2024/inv.html), Jinhua, China.
 * **07.2024:** Chronic Disease Health Management Information System Construction Based on Large Language Model. [The 3rd CCF Northeast Conference](https://conf.ccf.org.cn/web/api/m1237452513549094912171507326998.action), Changchun, China.
 * **06.2024:** LLM-based Knowledge Graph Reasoning. [The 1st China Conference on Large Models](https://cclm.org.cn/), Beijing, China.
 * **05.2024:** LLM-based Knowledge Graph Reasoning. The 2024 CIPS Language and Knowledge Computing Committee Symposium, Fuzhou, China.
