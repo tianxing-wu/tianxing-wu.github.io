@@ -10,23 +10,22 @@ redirect_from:
 
 I am an associate professor working at [School of Computer Science and Engineering](http://cs.seu.edu.cn) of [Southeast University](https://www.seu.edu.cn), P.R. China. I also received the Ph.D. degree (2018) in Software Engineering from Southeast University. My research interests include:
 * **Knowledge Graph:** Knowledge Graph Construction, Completion, Fusion, and Update;
-* **Large Language Model:** LLM Reasoning, Fine-Tuning, Enhancement; 
+* **Large Language Model:** LLM Reasoning, Fine-Tuning, Knowledge Enhancement; 
 * **Knowledge Representation and Reasoning:** Representation Learning, Rule Reasoning; 
 * **Data Mining:** Table Mining, Text Mining, Information Extraction, Graph Mining; 
-* **Artificial Intelligence Applications:** AI and Medical Health, Social Sciences, etc.
+* **Artificial Intelligence Applications:** AI and Medical Health, Social Sciences, and etc.
 
-In the above research areas, I have published over 60 papers in top-tier conferences and journals, such as SIGMOD, ICDE, AAAI, IJCAI, SIGIR, MM, ISWC, TKDE, TSC, TIP, TKDD and etc. 
+In the above research areas, I have published over 80 papers in top-tier conferences and journals, such as SIGMOD, ICDE, AAAI, IJCAI, NeurIPS, SIGIR, TKDE, TSC and etc. 
 
 News
 ======
+* **Jan. 2026:** Our workshop "Agents + Graph" was accepted by VLDB 2026.
+* **Jan. 2026:** I was invited as a senior program committee member of IJCAI 2026.
+* **Dec. 2025:** I was invited as the program chair of CCKS 2026.
+* **Nov. 2025:** One paper was accepted by AAAI 2026.
+* **Sep. 2025:** Two papers were accepted by NeurIPS 2025.
+* **Aug. 2025:** One paper was accepted by EMNLP 2025.
 * **Apr. 2025:** Two papers were accepted by IJCAI 2025.
-* **Apr. 2025:** I was invited as a program committee member of CIKM 2025.
-* **Apr. 2025:** One paper was accepted by IEEE Transactions on Services Computing.
-* **Mar. 2025:** One paper was accepted by SIGMOD Record.
-* **Mar. 2025:** I was invited as a program committee member of ISWC 2025.
-* **Feb. 2025:** One paper was accepted by IEEE Transactions on Image Processing.
-* **Feb. 2025:** One paper was accepted by EDBT 2025.
-* **Feb. 2025:** I was invited as a program committee member of NeurIPS 2025.
 
 Professional Experience
 ======

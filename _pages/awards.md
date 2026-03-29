@@ -4,6 +4,7 @@ permalink: /awards/
 title: "Awards"
 author_profile: true
 ---
+* **ZhiShan Young Scholar of Southeast University (A Level)**, 2025.
 * **OpenKG Annual Outstanding Open Resource Award**, 2024.
 * **SIGIR 2024 Best Short Paper Nominee**, 2024.
 * **WISA 2024 Best Student Paper Award**, 2024.
@@ -11,7 +12,7 @@ author_profile: true
 * **The Excellent Undergraduate Supervisor of Southeast University**, 2022.
 * **CCKS 2022 Best Paper Award**, 2022.
 * **The Aegis Faculty Fellowship Award (10,000 CNY)**, 2022.
-* **ZhiShan Young Scholar of Southeast University**, 2021.
+* **ZhiShan Young Scholar of Southeast University (B Level)**, 2021.
 * **The Doctor of Entrepreneurship and Innovation in Jiangsu Province**, 2021.
 * **The Excellent Ph.D. Degree Dissertation of Southeast University**, 2020.
 * **The Excellent Ph.D. Degree Dissertation of Jiangsu Computer Society**, 2019.
