@@ -5,15 +5,20 @@ permalink: /services/
 author_profile: true
 ---
 ## Acadamic Organizations:
-* CIPS Language and Knowledge Computing Committee Member.
-* CIPS Large Model and Generation Committee Member.
-* CCF Information System Committee Executive Member. 
-* CCF Natural Language Processing Committee Executive Member. 
-* CCF YOCSEF Nanjing Academic Committee Member (President, 2024-2025; Vice President, 2023-2024; Member, 2022-).
-* JSAI Knowledge Engineering and Intelligent Service Committee Member.
-* JSAI Natural Language Processing Committee Member.
+* The Technical Committee of CCF Information System (Executive Member). 
+* The Technical Committee of CCF Natural Language Processing Committee (Executive Member). 
+* The Technical Committee of CIPS Language and Knowledge Computing Committee (Member).
+* The Technical Committee of CIPS Large Model and Generation Committee (Member).
+* The Technical Committee of CAAI Causality and Uncertainty in Artificial Intelligence (Member).
+* CCF Nanjing Chapter (Executive Member).
+* CCF YOCSEF Nanjing (President, 2024-2025; Vice President, 2023-2024; Academic Committee Member, 2022-).
+* The Technical Committee of Knowledge Engineering and Intelligent Service (Member).(Member)
+* The Technical Committee of Natural Language Processing (Member).
 
 ## Journal:
+**Associate Editor-In-Cheif:**
+* The Knowledge Engineering Review (KER).
+
 **Guest Editor:**
 * 2025 - Data Intelligence: Special Issue "Multimodal AI Agents: Techniques and Applications".
 * 2023 - Applied Sciences: Special Issue "New Advances for Open-Domain Information Mining in Theories and Applications".
@@ -53,6 +58,7 @@ author_profile: true
 * 2025 - IJCAI.
 
 **Senior Program Committee Member:**
+* 2026 - IJCAI.
 * 2024 - IJCAI.
 * 2023 - IJCAI. 
 
