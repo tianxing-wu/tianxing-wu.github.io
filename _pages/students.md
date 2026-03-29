@@ -6,8 +6,8 @@ author_profile: true
 ---
 ## PhD Students:
 **2025:**
-Peifeng Zhang (Neuro-Symbolic Reasoning)
-Chenchen Wu (LLM Security)
+* Peifeng Zhang (Neuro-Symbolic Reasoning)
+* Chenchen Wu (LLM Security)
 
 ## Master Students:
 **2025:**
