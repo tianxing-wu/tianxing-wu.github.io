@@ -29,7 +29,8 @@ author_profile: true
 * Data Intelligence (DI).
 
 **Reviewer:**
-* 2025 - IEEE Transactions on Knowledge and Data Engineering (TKDE), ACM Transactions on Information Systems (TOIS), Knowledge-based Systems (KBS), Acta Automatica Sinica (自动化学报), Data Intelligence (DI).
+* 2026 - IEEE Transactions on Knowledge and Data Engineering (TKDE), ACM Transactions on Knowledge Discovery from Data (TKDD), IEEE Transactions on Audio, Speech and Language Processing (TASL), IEEE Transactions on Big Data (TBD), Journal of Web Semantics (JWS), Data Intelligence (DI).
+* 2025 - IEEE Transactions on Knowledge and Data Engineering (TKDE), ACM Transactions on Information Systems (TOIS), ACM Transactions on Knowledge Discovery from Data (TKDD), IEEE Transactions on Audio, Speech and Language Processing (TASL), IEEE Transactions on Big Data (TBD), World Wide Web-Internet and Web Information Systems (WWWJ), Semantic Web Journal (SWJ), Knowledge-based Systems (KBS), Health Information Science and Systems (HISC), Acta Automatica Sinica (自动化学报), Frontiers of Computer Science (FCS), Data Intelligence (DI).
 * 2024 - IEEE Transactions on Knowledge and Data Engineering (TKDE), ACM Transactions on Information Systems (TOIS), World Wide Web-Internet and Web Information Systems (WWWJ), Data Science and Engineering (DSE), ACM Transactions on Asian and Low-Resource Language Information Processing (TALLIP), Knowledge-based Systems (KBS), International Journal on Semantic Web and Information Systems (IJSWIS), Data Intelligence (DI), Chinese Journal of Computers (计算机学报).
 * 2023 - IEEE Transactions on Knowledge and Data Engineering (TKDE), World Wide Web-Internet and Web Information Systems (WWWJ), ACM Transactions on Asian and Low-Resource Language Information Processing (TALLIP), Knowledge-based Systems (KBS), Applied Intelligence (APIN), International Journal on Semantic Web and Information Systems (IJSWIS), Neural Processing Letters, Chinese Journal of Computers (计算机学报), Journal of Computer Research and Development (计算机研究与发展).
 * 2022 - Journal of Web Semantics (JWS), Knowledge and Information Systems (KAIS), Information Processing & Management (IPM), Knowledge-based Systems (KBS), Applied Intelligence (APIN), Engineering Applications of Artificial Intelligence (EAAI), International Journal on Semantic Web and Information Systems (IJSWIS), Aslib Journal of Information Management (AJIM), Scientometrics (SCIM), Heritage Science, Data Intelligence (DI), Journal of Software (软件学报).
@@ -48,6 +49,7 @@ author_profile: true
 
 ## Conference:
 **Chair:**
+* 2026 - CCKS Program Chair.
 * 2025 - IJCKG Evaluation Challenge Chair.
 * 2024 - CCKS Evaluation Chair, Resource Track Chair.
 * 2023 - CCKS Evaluation Chair.
@@ -63,7 +65,8 @@ author_profile: true
 * 2023 - IJCAI. 
 
 **Program Committee Member:**
-* 2025 - NeurIPS, ACL, ICLR, SIGKDD, ICML, TheWebConf (WWW), SIGIR, SIGGRAPH, ISWC (Resource Track), CIKM, ECAI, NAACL, AISTATS.
+* 2026 - AAAI, ACL, ICLR, SIGKDD, ICML, TheWebConf (WWW), SIGIR, ISWC (Resource Track), WSDM, EACL, AISTATS, SEMANTiCS.
+* 2025 - NeurIPS, ACL, ICLR, SIGKDD, ICML, TheWebConf (WWW), SIGIR, SIGGRAPH, ISWC (Resource Track), EMNLP, CIKM, ECAI, NAACL, AISTATS, APWeb-WAIM, WISA, CCKS, SIGIR-AP.
 * 2024 - NeurIPS, ACL, TheWebConf (WWW), SIGKDD, ISWC (Resource Track), EMNLP, ECAI, IEA/AIE, WISA.
 * 2023 - ACL, ISWC (Resource Track), EMNLP, ECAI, CSCWD, IJCKG, IEA/AIE, CCKS, WISA.
 * 2022 - AAAI, IJCAI, EMNLP, IJCKG, CCKS.
@@ -85,6 +88,7 @@ author_profile: true
 
 ## Workshop:
 **Chair:**
+* 2026 - Agents+Graph, the 3rd International Workshop on Data Management Opportunities in Bringing Agents with Graph Data (co-located with VLDB 2026).
 * 2025 - LLM+Graph, the 2nd International Workshop on Data Management Opportunities in Bringing LLMs with Graph Data (co-located with VLDB 2025).
 * 2024 - LLM+KG, International Workshop on Data Management Opportunities in Unifying Large Language Models + Knowledge Graphs (co-located with VLDB 2024).
 * 2024 - LKM, the First International OpenKG Workshop Large Knowledge-Enhanced Models (co-located with IJCAI 2024).
