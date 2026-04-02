@@ -12,11 +12,11 @@ author_profile: true
 * The Technical Committee of CAAI Causality and Uncertainty in Artificial Intelligence (Member).
 * CCF Nanjing Chapter (Executive Member).
 * CCF YOCSEF Nanjing (President, 2024-2025; Vice President, 2023-2024; Academic Committee Member, 2022-).
-* The Technical Committee of Knowledge Engineering and Intelligent Service (Member).
-* The Technical Committee of Natural Language Processing (Member).
+* The Technical Committee of JSAI Knowledge Engineering and Intelligent Service (Member).
+* The Technical Committee of JSAI Natural Language Processing (Member).
 
 ## Journal:
-**Associate Editor-In-Cheif:**
+**Associate Editor-in-Cheif:**
 * The Knowledge Engineering Review (KER).
 
 **Guest Editor:**
@@ -65,7 +65,7 @@ author_profile: true
 * 2023 - IJCAI. 
 
 **Program Committee Member:**
-* 2026 - AAAI, ACL, ICLR, SIGKDD, ICML, TheWebConf (WWW), SIGIR, ISWC (Resource Track), WSDM, EACL, AISTATS, SEMANTiCS.
+* 2026 - NeurIPS, AAAI, ACL, ICLR, SIGKDD, ICML, TheWebConf (WWW), SIGIR, ISWC (Resource Track), CIKM, WSDM, EACL, AISTATS, SEMANTiCS.
 * 2025 - NeurIPS, ACL, ICLR, SIGKDD, ICML, TheWebConf (WWW), SIGIR, SIGGRAPH, ISWC (Resource Track), EMNLP, CIKM, ECAI, NAACL, AISTATS, APWeb-WAIM, WISA, CCKS, SIGIR-AP.
 * 2024 - NeurIPS, ACL, TheWebConf (WWW), SIGKDD, ISWC (Resource Track), EMNLP, ECAI, IEA/AIE, WISA.
 * 2023 - ACL, ISWC (Resource Track), EMNLP, ECAI, CSCWD, IJCKG, IEA/AIE, CCKS, WISA.
