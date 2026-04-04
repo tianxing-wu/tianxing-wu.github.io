@@ -6,9 +6,9 @@ author_profile: true
 ---
 ## Acadamic Organizations:
 * The Technical Committee of CCF Information System (Executive Member). 
-* The Technical Committee of CCF Natural Language Processing Committee (Executive Member). 
-* The Technical Committee of CIPS Language and Knowledge Computing Committee (Member).
-* The Technical Committee of CIPS Large Model and Generation Committee (Member).
+* The Technical Committee of CCF Natural Language Processing (Executive Member). 
+* The Technical Committee of CIPS Language and Knowledge Computing (Member).
+* The Technical Committee of CIPS Large Model and Generation (Member).
 * The Technical Committee of CAAI Causality and Uncertainty in Artificial Intelligence (Member).
 * CCF Nanjing Chapter (Executive Member).
 * CCF YOCSEF Nanjing (President, 2024-2025; Vice President, 2023-2024; Academic Committee Member, 2022-).
@@ -16,7 +16,7 @@ author_profile: true
 * The Technical Committee of JSAI Natural Language Processing (Member).
 
 ## Journal:
-**Associate Editor-in-Cheif:**
+**Associate Editor-in-Chief:**
 * The Knowledge Engineering Review (KER).
 
 **Guest Editor:**
@@ -65,7 +65,7 @@ author_profile: true
 * 2023 - IJCAI. 
 
 **Program Committee Member:**
-* 2026 - NeurIPS, AAAI, ACL, ICLR, SIGKDD, ICML, TheWebConf (WWW), SIGIR, ISWC (Resource Track), CIKM, WSDM, EACL, AISTATS, SEMANTiCS.
+* 2026 - NeurIPS, AAAI, ACL, ICLR, SIGKDD, ICML, TheWebConf (WWW), SIGIR, ISWC (Resource Track), CIKM, WSDM, EACL, AISTATS, SEMANTiCS, ICTIR.
 * 2025 - NeurIPS, ACL, ICLR, SIGKDD, ICML, TheWebConf (WWW), SIGIR, SIGGRAPH, ISWC (Resource Track), EMNLP, CIKM, ECAI, NAACL, AISTATS, APWeb-WAIM, WISA, CCKS, SIGIR-AP.
 * 2024 - NeurIPS, ACL, TheWebConf (WWW), SIGKDD, ISWC (Resource Track), EMNLP, ECAI, IEA/AIE, WISA.
 * 2023 - ACL, ISWC (Resource Track), EMNLP, ECAI, CSCWD, IJCKG, IEA/AIE, CCKS, WISA.
