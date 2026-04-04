@@ -19,6 +19,7 @@ In the above research areas, I have published over 80 papers in top-tier confere
 
 News
 ======
+* **Apr. 2026:** One paper was accepted by SIGIR 2026.
 * **Jan. 2026:** Our workshop "Agents + Graph" was accepted by VLDB 2026.
 * **Jan. 2026:** I was invited as a senior program committee member of IJCAI 2026.
 * **Dec. 2025:** I was invited as the program chair of CCKS 2026.
