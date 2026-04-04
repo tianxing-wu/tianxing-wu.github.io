@@ -23,7 +23,7 @@ author_profile: true
 * Shutong Zhu (LLM Uncertainty) (Papers in SIGIR 2024 (Best Short Paper Nominee), IJCAI 2025, NeurIPS 2025)
 * Shiqi Zhang (Few-Shot Uncertain Knowledge Graph Reasoning)
 * Yuang Gu (AI-based Blood Pressure Prediction)
-* Runfeng Liu (Knowledge-Enhanced Medication Recommendation) (Paper in CHIP 2024, JMIR Medical Informatics 2025)
+* Runfeng Liu (Knowledge-Enhanced Medication Recommendation) (Papers in CHIP 2024, JMIR Medical Informatics 2025)
 * Yerong Wu (Memory-based Retrieval-Augmented Generation) (Paper in IJCAI 2025)
 
 **2023:** 
@@ -53,5 +53,5 @@ author_profile: true
 * Tianling Gong (Medical Knowledge Extraction) (Paper in ISWC 2023) (Next Position: Master Student, Boston University)
 
 **2018:**
-* Minghao Wang (Infectious Disease Prediction) (Paper in Front. Public Health 2022, Epidemiology & Infection 2022) (Next Position: Master Student, The Hong Kong University of Science and Technology)
+* Minghao Wang (Infectious Disease Prediction) (Papers in Front. Public Health 2022, Epidemiology & Infection 2022) (Next Position: Master Student, The Hong Kong University of Science and Technology)
 
