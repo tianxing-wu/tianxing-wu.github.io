@@ -24,14 +24,14 @@ author_profile: true
 * Shiqi Zhang (Few-Shot Uncertain Knowledge Graph Reasoning)
 * Yuang Gu (AI-based Blood Pressure Prediction)
 * Runfeng Liu (Knowledge-Enhanced Medication Recommendation) (Papers in CHIP 2024, JMIR Medical Informatics 2025)
-* Yerong Wu (Memory-based Retrieval-Augmented Generation) (Paper in IJCAI 2025)
+* Yerong Wu (Memory-based Retrieval-Augmented Generation) (Papers in IJCAI 2025, ACL 2026)
 
 **2023:** 
 * Shilin Chen (AI-based Blood Pressure Prediction) (Paper in SIGIR 2024 (Best Short Paper Nominee))
 * Yunchang Liu (Continual Learning on LLM) (Papers in WISA 2024 (Best Student Paper Award), SIGIR 2024 (Best Short Paper Nominee), NeurIPS 2025)
 * Wei Li (Uncertain Knowledge Graph Construction) (Papers in SIGIR 2024 (Best Short Paper Nominee), World Wide Web Journal 2024)
 * Lizhe Cao (AI-based Social Science Analysis) (Paper in IJCAI 2025)
-* Hangyu Sha (Retrieval-Augmented Generation) (Papers in CHIP 2024, 计算机研究与发展 2025, JMIR Medical Informatics 2025, HISC 2025)
+* Hangyu Sha (Retrieval-Augmented Generation) (Papers in CHIP 2024, 计算机研究与发展 2025, JMIR Medical Informatics 2025, HISC 2025, ACL 2026)
 
 **2022:** 
 * Jingting Wang (Uncertain Knowledge Graph Representation Learning) (Papers in CCKS 2022 (Best Paper Award), SIGIR 2024 (Best Short Paper Nominee), ISWC 2024, NeurIPS 2025) (Next Position: AI Algorithm Engineer, Huawei)
